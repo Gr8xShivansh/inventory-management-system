@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "68ffd640a05d8d63864ff467"
+  },
+  "name": "Lipstick",
+  "category": "Cosmetics",
+  "quantity": 40,
+  "price": 300,
+  "dateAdded": {
+    "$date": "2025-10-27T20:29:52.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ffe192a05d8d63864ff484"
+  },
+  "name": "Lip Gloss",
+  "category": "Cosmetics",
+  "quantity": 10,
+  "price": 900,
+  "dateAdded": {
+    "$date": "2025-10-27T21:18:10.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff468",
+  "name": "Matte Lipstick - Ruby Red",
+  "category": "Cosmetics",
+  "quantity": 120,
+  "price": 1800,
+  "dateAdded": "2025-10-27T20:30:15.120Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff469",
+  "name": "Hydrating Foundation - Ivory",
+  "category": "Cosmetics",
+  "quantity": 75,
+  "price": 3500,
+  "dateAdded": "2025-10-27T20:31:05.450Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff470",
+  "name": "Vitamin C Serum",
+  "category": "Skincare",
+  "quantity": 90,
+  "price": 2800,
+  "dateAdded": "2025-10-27T20:32:45.910Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff471",
+  "name": "Volumizing Mascara - Black",
+  "category": "Cosmetics",
+  "quantity": 200,
+  "price": 2100,
+  "dateAdded": "2025-10-27T20:33:12.300Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff472",
+  "name": "Gentle Face Cleanser",
+  "category": "Skincare",
+  "quantity": 150,
+  "price": 1600,
+  "dateAdded": "2025-10-27T20:34:02.005Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff473",
+  "name": "Daily Moisturizer SPF 30",
+  "category": "Skincare",
+  "quantity": 80,
+  "price": 2500,
+  "dateAdded": "2025-10-27T20:35:18.119Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff474",
+  "name": "Waterproof Eyeliner Pen",
+  "category": "Cosmetics",
+  "quantity": 110,
+  "price": 1500,
+  "dateAdded": "2025-10-27T20:36:22.740Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff475",
+  "name": "Rose Water Toner",
+  "category": "Skincare",
+  "quantity": 60,
+  "price": 1300,
+  "dateAdded": "2025-10-27T20:37:00.613Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff476",
+  "name": "Blush Palette - Peachy Tones",
+  "category": "Cosmetics",
+  "quantity": 50,
+  "price": 4200,
+  "dateAdded": "2025-10-27T20:38:09.992Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff477",
+  "name": "Argan Oil Hair Serum",
+  "category": "Haircare",
+  "quantity": 70,
+  "price": 2200,
+  "dateAdded": "2025-10-27T20:39:14.030Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff478",
+  "name": "Eyeshadow Palette - Nudes",
+  "category": "Cosmetics",
+  "quantity": 45,
+  "price": 5500,
+  "dateAdded": "2025-10-27T20:40:01.815Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff479",
+  "name": "Setting Powder - Translucent",
+  "category": "Cosmetics",
+  "quantity": 85,
+  "price": 2900,
+  "dateAdded": "2025-10-27T20:41:23.159Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff480",
+  "name": "Clay Face Mask",
+  "category": "Skincare",
+  "quantity": 30,
+  "price": 1900,
+  "dateAdded": "2025-10-27T20:42:10.250Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff481",
+  "name": "Lip Gloss - Crystal Clear",
+  "category": "Cosmetics",
+  "quantity": 130,
+  "price": 1200,
+  "dateAdded": "2025-10-27T20:43:05.777Z",
+  "__v": 0
+},
+{
+  "_id": "68ffd640a05d8d63864ff482",
+  "name": "Eau de Parfum - Floral",
+  "category": "Fragrance",
+  "quantity": 25,
+  "price": 7500,
+  "dateAdded": "2025-10-27T20:44:19.143Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6902dc879c69230c5b554ab3"
+  },
+  "name": "Lipstick black",
+  "category": "Cosmetics",
+  "quantity": 10,
+  "price": 5000,
+  "dateAdded": {
+    "$date": "2025-10-30T03:33:27.591Z"
+  },
+  "__v": 0
+}]

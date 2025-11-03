@@ -1,0 +1,77 @@
+/* Note: This file is now at /src/pages/Dashboard.css */
+.dashboard-page {
+  min-height: 100vh;
+  padding: 2rem;
+  background-color: var(--bg-color, #fcfcfc);
+  color: var(--text-color, #3d3d3d);
+}
+
+/* Header */
+.dashboard-header h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.dashboard-header p {
+  color: #6b6b6b;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+/* Stats Cards */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.stat-label {
+  color: #6b6b6b;
+  font-size: 0.9rem;
+}
+
+.stat-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #b5838d;
+  margin-top: 0.4rem;
+}
+
+/* Chart Section */
+.chart-container {
+  margin-bottom: 3rem;
+}
+
+/* Recent Products Table */
+.recent-products-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.95rem;
+}
+
+.recent-products-table th {
+  color: #6b6b6b;
+  font-weight: 500;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e4dadc;
+}
+
+.recent-products-table td {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #e4dadc;
+}
+
+/* Consistent column spacing */
+.recent-products-table th,
+.recent-products-table td {
+  padding-right: 1.5rem;
+}
+
+.section-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}

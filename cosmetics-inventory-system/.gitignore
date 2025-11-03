@@ -1,0 +1,22 @@
+# Dependency directories
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# Build folders
+/build
+/client/build
+
+# Environment variables (SECURITY!)
+.env
+.env.local
+/client/.env
+/server/.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store

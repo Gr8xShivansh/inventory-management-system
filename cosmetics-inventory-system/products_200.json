@@ -1,0 +1,3602 @@
+[
+  {
+    "_id": {
+      "$oid": "c2d7d02854214c6985cdceca"
+    },
+    "id": 1,
+    "name": "Foundation Liquid 2pc",
+    "category": "Cosmetics",
+    "stock": 116,
+    "costPrice": 1118,
+    "salePrice": 1469,
+    "unitsSold": 350,
+    "lowStockAlert": 33,
+    "highStockAlert": 317,
+    "reorderQuantity": 207,
+    "dateRenewed": "2025-09-15",
+    "manufacturingDate": "2025-03-31",
+    "expiryDate": "2027-03-31"
+  },
+  {
+    "_id": {
+      "$oid": "cb697761126b42ab9388541a"
+    },
+    "id": 2,
+    "name": "Setting Spray 15ml",
+    "category": "Cosmetics",
+    "stock": 115,
+    "costPrice": 802,
+    "salePrice": 972,
+    "unitsSold": 67,
+    "lowStockAlert": 33,
+    "highStockAlert": 331,
+    "reorderQuantity": 159,
+    "dateRenewed": "2025-09-23",
+    "manufacturingDate": "2025-01-24",
+    "expiryDate": "2027-01-24"
+  },
+  {
+    "_id": {
+      "$oid": "2daeb3f37a5a4f1ca1afb22d"
+    },
+    "id": 3,
+    "name": "Makeup Remover 2pc",
+    "category": "Cosmetics",
+    "stock": 62,
+    "costPrice": 696,
+    "salePrice": 867,
+    "unitsSold": 169,
+    "lowStockAlert": 41,
+    "highStockAlert": 407,
+    "reorderQuantity": 136,
+    "dateRenewed": "2025-09-08",
+    "manufacturingDate": "2025-05-27",
+    "expiryDate": "2027-05-27"
+  },
+  {
+    "_id": {
+      "$oid": "2a11d0a8223e461fb2d60c70"
+    },
+    "id": 4,
+    "name": "Highlighter Palette 10g",
+    "category": "Cosmetics",
+    "stock": 282,
+    "costPrice": 686,
+    "salePrice": 923,
+    "unitsSold": 153,
+    "lowStockAlert": 30,
+    "highStockAlert": 271,
+    "reorderQuantity": 105,
+    "dateRenewed": "2025-09-11",
+    "manufacturingDate": "2025-01-28",
+    "expiryDate": "2027-01-28"
+  },
+  {
+    "_id": {
+      "$oid": "b7990bbd59754984a289d94b"
+    },
+    "id": 5,
+    "name": "Tinted Lip Balm 20g",
+    "category": "Cosmetics",
+    "stock": 164,
+    "costPrice": 908,
+    "salePrice": 1245,
+    "unitsSold": 251,
+    "lowStockAlert": 35,
+    "highStockAlert": 329,
+    "reorderQuantity": 157,
+    "dateRenewed": "2025-09-14",
+    "manufacturingDate": "2025-06-29",
+    "expiryDate": "2027-06-29"
+  },
+  {
+    "_id": {
+      "$oid": "3dd90c5bdc86455386a91f2a"
+    },
+    "id": 6,
+    "name": "Makeup Remover 5g",
+    "category": "Cosmetics",
+    "stock": 296,
+    "costPrice": 647,
+    "salePrice": 805,
+    "unitsSold": 423,
+    "lowStockAlert": 39,
+    "highStockAlert": 387,
+    "reorderQuantity": 188,
+    "dateRenewed": "2025-09-14",
+    "manufacturingDate": "2025-02-25",
+    "expiryDate": "2027-02-25"
+  },
+  {
+    "_id": {
+      "$oid": "28878c0e5aac4e9bb8fd45e0"
+    },
+    "id": 7,
+    "name": "Concealer Stick 15ml",
+    "category": "Cosmetics",
+    "stock": 102,
+    "costPrice": 1045,
+    "salePrice": 1327,
+    "unitsSold": 483,
+    "lowStockAlert": 25,
+    "highStockAlert": 344,
+    "reorderQuantity": 113,
+    "dateRenewed": "2025-10-08",
+    "manufacturingDate": "2025-04-27",
+    "expiryDate": "2027-04-27"
+  },
+  {
+    "_id": {
+      "$oid": "71b79884702347298104e7c3"
+    },
+    "id": 8,
+    "name": "Compact Powder 15ml",
+    "category": "Cosmetics",
+    "stock": 92,
+    "costPrice": 819,
+    "salePrice": 1004,
+    "unitsSold": 87,
+    "lowStockAlert": 53,
+    "highStockAlert": 372,
+    "reorderQuantity": 123,
+    "dateRenewed": "2025-10-03",
+    "manufacturingDate": "2025-05-21",
+    "expiryDate": "2027-05-21"
+  },
+  {
+    "_id": {
+      "$oid": "aebda5886dc042f7a4f2531d"
+    },
+    "id": 9,
+    "name": "Brow Pencil 5g",
+    "category": "Cosmetics",
+    "stock": 170,
+    "costPrice": 1096,
+    "salePrice": 1280,
+    "unitsSold": 369,
+    "lowStockAlert": 28,
+    "highStockAlert": 297,
+    "reorderQuantity": 91,
+    "dateRenewed": "2025-10-04",
+    "manufacturingDate": "2025-04-26",
+    "expiryDate": "2027-04-26"
+  },
+  {
+    "_id": {
+      "$oid": "4851f0e6c7ab492c9f843889"
+    },
+    "id": 10,
+    "name": "Brow Pencil 20g",
+    "category": "Cosmetics",
+    "stock": 74,
+    "costPrice": 676,
+    "salePrice": 812,
+    "unitsSold": 487,
+    "lowStockAlert": 58,
+    "highStockAlert": 379,
+    "reorderQuantity": 160,
+    "dateRenewed": "2025-09-13",
+    "manufacturingDate": "2025-03-28",
+    "expiryDate": "2027-03-28"
+  },
+  {
+    "_id": {
+      "$oid": "1355924b327a4ef8b34d9f29"
+    },
+    "id": 11,
+    "name": "Makeup Remover 20g",
+    "category": "Cosmetics",
+    "stock": 139,
+    "costPrice": 850,
+    "salePrice": 1067,
+    "unitsSold": 196,
+    "lowStockAlert": 26,
+    "highStockAlert": 284,
+    "reorderQuantity": 129,
+    "dateRenewed": "2025-10-12",
+    "manufacturingDate": "2025-01-03",
+    "expiryDate": "2027-01-03"
+  },
+  {
+    "_id": {
+      "$oid": "7e66719ac75a4ea8adcb5b06"
+    },
+    "id": 12,
+    "name": "Lip Liner 1pc",
+    "category": "Cosmetics",
+    "stock": 161,
+    "costPrice": 1028,
+    "salePrice": 1405,
+    "unitsSold": 117,
+    "lowStockAlert": 27,
+    "highStockAlert": 285,
+    "reorderQuantity": 187,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-06-09",
+    "expiryDate": "2027-06-09"
+  },
+  {
+    "_id": {
+      "$oid": "34df0ce8477f48678737c26c"
+    },
+    "id": 13,
+    "name": "Highlighter Palette 1pc",
+    "category": "Cosmetics",
+    "stock": 69,
+    "costPrice": 725,
+    "salePrice": 997,
+    "unitsSold": 499,
+    "lowStockAlert": 40,
+    "highStockAlert": 365,
+    "reorderQuantity": 166,
+    "dateRenewed": "2025-09-16",
+    "manufacturingDate": "2025-01-09",
+    "expiryDate": "2027-01-09"
+  },
+  {
+    "_id": {
+      "$oid": "24bd22538d23403fa2d60e9f"
+    },
+    "id": 14,
+    "name": "Lip Gloss 20g",
+    "category": "Cosmetics",
+    "stock": 104,
+    "costPrice": 806,
+    "salePrice": 1090,
+    "unitsSold": 97,
+    "lowStockAlert": 41,
+    "highStockAlert": 336,
+    "reorderQuantity": 99,
+    "dateRenewed": "2025-09-02",
+    "manufacturingDate": "2025-06-11",
+    "expiryDate": "2027-06-11"
+  },
+  {
+    "_id": {
+      "$oid": "c087dd3372d24aab9d6d2179"
+    },
+    "id": 15,
+    "name": "Lip Gloss 2pc",
+    "category": "Cosmetics",
+    "stock": 115,
+    "costPrice": 998,
+    "salePrice": 1207,
+    "unitsSold": 432,
+    "lowStockAlert": 29,
+    "highStockAlert": 305,
+    "reorderQuantity": 102,
+    "dateRenewed": "2025-10-26",
+    "manufacturingDate": "2025-06-17",
+    "expiryDate": "2027-06-17"
+  },
+  {
+    "_id": {
+      "$oid": "bdddff8e33f44c73b1a19eda"
+    },
+    "id": 16,
+    "name": "Foundation Liquid 1pc",
+    "category": "Cosmetics",
+    "stock": 145,
+    "costPrice": 1095,
+    "salePrice": 1322,
+    "unitsSold": 428,
+    "lowStockAlert": 27,
+    "highStockAlert": 254,
+    "reorderQuantity": 178,
+    "dateRenewed": "2025-10-08",
+    "manufacturingDate": "2025-03-02",
+    "expiryDate": "2027-03-02"
+  },
+  {
+    "_id": {
+      "$oid": "2a48825438ff426ebe781bc0"
+    },
+    "id": 17,
+    "name": "Blush Powder 1pc",
+    "category": "Cosmetics",
+    "stock": 225,
+    "costPrice": 756,
+    "salePrice": 1021,
+    "unitsSold": 187,
+    "lowStockAlert": 42,
+    "highStockAlert": 259,
+    "reorderQuantity": 108,
+    "dateRenewed": "2025-09-01",
+    "manufacturingDate": "2025-06-18",
+    "expiryDate": "2027-06-18"
+  },
+  {
+    "_id": {
+      "$oid": "b1ef1a04234849b985f00ebf"
+    },
+    "id": 18,
+    "name": "Matte Finish Lipstick 5g",
+    "category": "Cosmetics",
+    "stock": 106,
+    "costPrice": 611,
+    "salePrice": 769,
+    "unitsSold": 300,
+    "lowStockAlert": 30,
+    "highStockAlert": 276,
+    "reorderQuantity": 193,
+    "dateRenewed": "2025-10-07",
+    "manufacturingDate": "2025-03-17",
+    "expiryDate": "2027-03-17"
+  },
+  {
+    "_id": {
+      "$oid": "dfec76c16f8d4563a17fe986"
+    },
+    "id": 19,
+    "name": "Concealer Stick 15ml",
+    "category": "Cosmetics",
+    "stock": 176,
+    "costPrice": 812,
+    "salePrice": 1029,
+    "unitsSold": 97,
+    "lowStockAlert": 36,
+    "highStockAlert": 324,
+    "reorderQuantity": 208,
+    "dateRenewed": "2025-09-21",
+    "manufacturingDate": "2025-01-04",
+    "expiryDate": "2027-01-04"
+  },
+  {
+    "_id": {
+      "$oid": "ad19b9f8157247d4b502b4af"
+    },
+    "id": 20,
+    "name": "Brow Pencil 1pc",
+    "category": "Cosmetics",
+    "stock": 162,
+    "costPrice": 1156,
+    "salePrice": 1561,
+    "unitsSold": 423,
+    "lowStockAlert": 58,
+    "highStockAlert": 253,
+    "reorderQuantity": 210,
+    "dateRenewed": "2025-09-28",
+    "manufacturingDate": "2025-03-31",
+    "expiryDate": "2027-03-31"
+  },
+  {
+    "_id": {
+      "$oid": "6ec25e8445944d0cb5925dac"
+    },
+    "id": 21,
+    "name": "Lip Gloss 20g",
+    "category": "Cosmetics",
+    "stock": 60,
+    "costPrice": 685,
+    "salePrice": 941,
+    "unitsSold": 288,
+    "lowStockAlert": 41,
+    "highStockAlert": 269,
+    "reorderQuantity": 160,
+    "dateRenewed": "2025-10-24",
+    "manufacturingDate": "2025-06-29",
+    "expiryDate": "2027-06-29"
+  },
+  {
+    "_id": {
+      "$oid": "8e760b1474b74b338667e0c2"
+    },
+    "id": 22,
+    "name": "Volumizing Mascara 20g",
+    "category": "Cosmetics",
+    "stock": 279,
+    "costPrice": 1065,
+    "salePrice": 1338,
+    "unitsSold": 490,
+    "lowStockAlert": 35,
+    "highStockAlert": 318,
+    "reorderQuantity": 164,
+    "dateRenewed": "2025-10-28",
+    "manufacturingDate": "2025-03-02",
+    "expiryDate": "2027-03-02"
+  },
+  {
+    "_id": {
+      "$oid": "67744ac9cfe9452fbfffa3af"
+    },
+    "id": 23,
+    "name": "Blush Powder 20g",
+    "category": "Cosmetics",
+    "stock": 180,
+    "costPrice": 728,
+    "salePrice": 870,
+    "unitsSold": 194,
+    "lowStockAlert": 57,
+    "highStockAlert": 344,
+    "reorderQuantity": 154,
+    "dateRenewed": "2025-09-28",
+    "manufacturingDate": "2025-04-20",
+    "expiryDate": "2027-04-20"
+  },
+  {
+    "_id": {
+      "$oid": "d1a2ec766e674ef884b991fb"
+    },
+    "id": 24,
+    "name": "Eyeshadow Palette 5g",
+    "category": "Cosmetics",
+    "stock": 83,
+    "costPrice": 859,
+    "salePrice": 1048,
+    "unitsSold": 289,
+    "lowStockAlert": 34,
+    "highStockAlert": 346,
+    "reorderQuantity": 142,
+    "dateRenewed": "2025-09-24",
+    "manufacturingDate": "2025-04-25",
+    "expiryDate": "2027-04-25"
+  },
+  {
+    "_id": {
+      "$oid": "62f7d921fe014604bf6d5a52"
+    },
+    "id": 25,
+    "name": "Highlighter Palette 1pc",
+    "category": "Cosmetics",
+    "stock": 261,
+    "costPrice": 651,
+    "salePrice": 910,
+    "unitsSold": 447,
+    "lowStockAlert": 57,
+    "highStockAlert": 258,
+    "reorderQuantity": 161,
+    "dateRenewed": "2025-10-09",
+    "manufacturingDate": "2025-05-05",
+    "expiryDate": "2027-05-05"
+  },
+  {
+    "_id": {
+      "$oid": "77c3ed9d6b94490db519b9bd"
+    },
+    "id": 26,
+    "name": "BB Cream 1pc",
+    "category": "Cosmetics",
+    "stock": 102,
+    "costPrice": 871,
+    "salePrice": 1211,
+    "unitsSold": 202,
+    "lowStockAlert": 34,
+    "highStockAlert": 319,
+    "reorderQuantity": 119,
+    "dateRenewed": "2025-10-14",
+    "manufacturingDate": "2025-05-11",
+    "expiryDate": "2027-05-11"
+  },
+  {
+    "_id": {
+      "$oid": "a16b33d2410e425a82aabacd"
+    },
+    "id": 27,
+    "name": "Makeup Remover 15ml",
+    "category": "Cosmetics",
+    "stock": 85,
+    "costPrice": 1058,
+    "salePrice": 1466,
+    "unitsSold": 231,
+    "lowStockAlert": 54,
+    "highStockAlert": 420,
+    "reorderQuantity": 199,
+    "dateRenewed": "2025-09-29",
+    "manufacturingDate": "2025-05-06",
+    "expiryDate": "2027-05-06"
+  },
+  {
+    "_id": {
+      "$oid": "fb639be8136740f78ab2cc0f"
+    },
+    "id": 28,
+    "name": "Matte Finish Lipstick 1pc",
+    "category": "Cosmetics",
+    "stock": 224,
+    "costPrice": 802,
+    "salePrice": 1043,
+    "unitsSold": 125,
+    "lowStockAlert": 49,
+    "highStockAlert": 376,
+    "reorderQuantity": 100,
+    "dateRenewed": "2025-09-05",
+    "manufacturingDate": "2025-02-12",
+    "expiryDate": "2027-02-12"
+  },
+  {
+    "_id": {
+      "$oid": "16767338006847618646c0be"
+    },
+    "id": 29,
+    "name": "Liquid Eyeliner 15ml",
+    "category": "Cosmetics",
+    "stock": 264,
+    "costPrice": 815,
+    "salePrice": 1110,
+    "unitsSold": 47,
+    "lowStockAlert": 44,
+    "highStockAlert": 407,
+    "reorderQuantity": 170,
+    "dateRenewed": "2025-09-23",
+    "manufacturingDate": "2025-05-30",
+    "expiryDate": "2027-05-30"
+  },
+  {
+    "_id": {
+      "$oid": "6f640887dfc74ed1a0f9954b"
+    },
+    "id": 30,
+    "name": "Liquid Eyeliner 1pc",
+    "category": "Cosmetics",
+    "stock": 51,
+    "costPrice": 945,
+    "salePrice": 1307,
+    "unitsSold": 465,
+    "lowStockAlert": 39,
+    "highStockAlert": 424,
+    "reorderQuantity": 218,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-03-10",
+    "expiryDate": "2027-03-10"
+  },
+  {
+    "_id": {
+      "$oid": "9f22a0b53ac24cfc84e08910"
+    },
+    "id": 31,
+    "name": "Setting Spray 20g",
+    "category": "Cosmetics",
+    "stock": 292,
+    "costPrice": 1081,
+    "salePrice": 1383,
+    "unitsSold": 196,
+    "lowStockAlert": 26,
+    "highStockAlert": 341,
+    "reorderQuantity": 85,
+    "dateRenewed": "2025-09-14",
+    "manufacturingDate": "2025-02-28",
+    "expiryDate": "2027-02-28"
+  },
+  {
+    "_id": {
+      "$oid": "c9fb179295a240b68d8c159e"
+    },
+    "id": 32,
+    "name": "BB Cream 15ml",
+    "category": "Cosmetics",
+    "stock": 181,
+    "costPrice": 986,
+    "salePrice": 1155,
+    "unitsSold": 58,
+    "lowStockAlert": 32,
+    "highStockAlert": 307,
+    "reorderQuantity": 160,
+    "dateRenewed": "2025-09-09",
+    "manufacturingDate": "2025-04-28",
+    "expiryDate": "2027-04-28"
+  },
+  {
+    "_id": {
+      "$oid": "50dfd488377d41f582b339d1"
+    },
+    "id": 33,
+    "name": "Blush Powder 20g",
+    "category": "Cosmetics",
+    "stock": 162,
+    "costPrice": 855,
+    "salePrice": 1120,
+    "unitsSold": 278,
+    "lowStockAlert": 39,
+    "highStockAlert": 379,
+    "reorderQuantity": 191,
+    "dateRenewed": "2025-09-14",
+    "manufacturingDate": "2025-01-17",
+    "expiryDate": "2027-01-17"
+  },
+  {
+    "_id": {
+      "$oid": "32a66361aa384a9b8a4db1c2"
+    },
+    "id": 34,
+    "name": "Blush Powder 2pc",
+    "category": "Cosmetics",
+    "stock": 157,
+    "costPrice": 980,
+    "salePrice": 1244,
+    "unitsSold": 75,
+    "lowStockAlert": 46,
+    "highStockAlert": 404,
+    "reorderQuantity": 167,
+    "dateRenewed": "2025-09-05",
+    "manufacturingDate": "2025-06-18",
+    "expiryDate": "2027-06-18"
+  },
+  {
+    "_id": {
+      "$oid": "5afa03173c114d8696f10dd5"
+    },
+    "id": 35,
+    "name": "Blush Powder 2pc",
+    "category": "Cosmetics",
+    "stock": 191,
+    "costPrice": 1079,
+    "salePrice": 1426,
+    "unitsSold": 375,
+    "lowStockAlert": 32,
+    "highStockAlert": 378,
+    "reorderQuantity": 113,
+    "dateRenewed": "2025-09-07",
+    "manufacturingDate": "2025-04-09",
+    "expiryDate": "2027-04-09"
+  },
+  {
+    "_id": {
+      "$oid": "40a90ac0d82c472993d2f892"
+    },
+    "id": 36,
+    "name": "Foundation Liquid 15ml",
+    "category": "Cosmetics",
+    "stock": 92,
+    "costPrice": 662,
+    "salePrice": 805,
+    "unitsSold": 449,
+    "lowStockAlert": 34,
+    "highStockAlert": 402,
+    "reorderQuantity": 137,
+    "dateRenewed": "2025-09-02",
+    "manufacturingDate": "2025-01-25",
+    "expiryDate": "2027-01-25"
+  },
+  {
+    "_id": {
+      "$oid": "90b8b93864124a8cb14ccda9"
+    },
+    "id": 37,
+    "name": "Concealer Stick 15ml",
+    "category": "Cosmetics",
+    "stock": 156,
+    "costPrice": 848,
+    "salePrice": 1123,
+    "unitsSold": 211,
+    "lowStockAlert": 32,
+    "highStockAlert": 311,
+    "reorderQuantity": 183,
+    "dateRenewed": "2025-09-20",
+    "manufacturingDate": "2025-01-25",
+    "expiryDate": "2027-01-25"
+  },
+  {
+    "_id": {
+      "$oid": "d354d48a29dc4fe4b4cbe503"
+    },
+    "id": 38,
+    "name": "Lip Liner 10g",
+    "category": "Cosmetics",
+    "stock": 238,
+    "costPrice": 947,
+    "salePrice": 1242,
+    "unitsSold": 180,
+    "lowStockAlert": 52,
+    "highStockAlert": 423,
+    "reorderQuantity": 211,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-04-12",
+    "expiryDate": "2027-04-12"
+  },
+  {
+    "_id": {
+      "$oid": "b0a5645f34a1415da0a59d86"
+    },
+    "id": 39,
+    "name": "BB Cream 20g",
+    "category": "Cosmetics",
+    "stock": 242,
+    "costPrice": 622,
+    "salePrice": 819,
+    "unitsSold": 338,
+    "lowStockAlert": 28,
+    "highStockAlert": 402,
+    "reorderQuantity": 136,
+    "dateRenewed": "2025-09-28",
+    "manufacturingDate": "2025-05-31",
+    "expiryDate": "2027-05-31"
+  },
+  {
+    "_id": {
+      "$oid": "28e21ac882d045ce873f8884"
+    },
+    "id": 40,
+    "name": "Brow Pencil 10g",
+    "category": "Cosmetics",
+    "stock": 209,
+    "costPrice": 1092,
+    "salePrice": 1436,
+    "unitsSold": 413,
+    "lowStockAlert": 42,
+    "highStockAlert": 349,
+    "reorderQuantity": 170,
+    "dateRenewed": "2025-09-27",
+    "manufacturingDate": "2025-04-29",
+    "expiryDate": "2027-04-29"
+  },
+  {
+    "_id": {
+      "$oid": "56f59ee922aa46e690d72d0e"
+    },
+    "id": 41,
+    "name": "Setting Spray 15ml",
+    "category": "Cosmetics",
+    "stock": 206,
+    "costPrice": 756,
+    "salePrice": 944,
+    "unitsSold": 393,
+    "lowStockAlert": 56,
+    "highStockAlert": 402,
+    "reorderQuantity": 130,
+    "dateRenewed": "2025-10-25",
+    "manufacturingDate": "2025-05-31",
+    "expiryDate": "2027-05-31"
+  },
+  {
+    "_id": {
+      "$oid": "759af0f817a54a17a46df576"
+    },
+    "id": 42,
+    "name": "Concealer Stick 15ml",
+    "category": "Cosmetics",
+    "stock": 84,
+    "costPrice": 841,
+    "salePrice": 1033,
+    "unitsSold": 370,
+    "lowStockAlert": 48,
+    "highStockAlert": 382,
+    "reorderQuantity": 220,
+    "dateRenewed": "2025-10-26",
+    "manufacturingDate": "2025-06-06",
+    "expiryDate": "2027-06-06"
+  },
+  {
+    "_id": {
+      "$oid": "2b2aa09168af41469ddf5b00"
+    },
+    "id": 43,
+    "name": "BB Cream 15ml",
+    "category": "Cosmetics",
+    "stock": 123,
+    "costPrice": 1072,
+    "salePrice": 1393,
+    "unitsSold": 443,
+    "lowStockAlert": 57,
+    "highStockAlert": 250,
+    "reorderQuantity": 183,
+    "dateRenewed": "2025-09-06",
+    "manufacturingDate": "2025-03-13",
+    "expiryDate": "2027-03-13"
+  },
+  {
+    "_id": {
+      "$oid": "8a11d8af1e4d48afac5d8d33"
+    },
+    "id": 44,
+    "name": "Compact Powder 15ml",
+    "category": "Cosmetics",
+    "stock": 259,
+    "costPrice": 1049,
+    "salePrice": 1401,
+    "unitsSold": 140,
+    "lowStockAlert": 40,
+    "highStockAlert": 329,
+    "reorderQuantity": 124,
+    "dateRenewed": "2025-09-13",
+    "manufacturingDate": "2025-05-21",
+    "expiryDate": "2027-05-21"
+  },
+  {
+    "_id": {
+      "$oid": "92bf6e0c33ec42019e93391c"
+    },
+    "id": 45,
+    "name": "Makeup Remover 5g",
+    "category": "Cosmetics",
+    "stock": 63,
+    "costPrice": 666,
+    "salePrice": 783,
+    "unitsSold": 204,
+    "lowStockAlert": 30,
+    "highStockAlert": 350,
+    "reorderQuantity": 116,
+    "dateRenewed": "2025-10-11",
+    "manufacturingDate": "2025-03-04",
+    "expiryDate": "2027-03-04"
+  },
+  {
+    "_id": {
+      "$oid": "b0c965328cbf4470a325b4a2"
+    },
+    "id": 46,
+    "name": "Highlighter Palette 5g",
+    "category": "Cosmetics",
+    "stock": 109,
+    "costPrice": 1100,
+    "salePrice": 1468,
+    "unitsSold": 178,
+    "lowStockAlert": 52,
+    "highStockAlert": 423,
+    "reorderQuantity": 110,
+    "dateRenewed": "2025-09-13",
+    "manufacturingDate": "2025-03-05",
+    "expiryDate": "2027-03-05"
+  },
+  {
+    "_id": {
+      "$oid": "9534518a84094befad2ea66e"
+    },
+    "id": 47,
+    "name": "Kajal Pencil 2pc",
+    "category": "Cosmetics",
+    "stock": 282,
+    "costPrice": 846,
+    "salePrice": 1122,
+    "unitsSold": 441,
+    "lowStockAlert": 41,
+    "highStockAlert": 335,
+    "reorderQuantity": 160,
+    "dateRenewed": "2025-09-19",
+    "manufacturingDate": "2025-04-16",
+    "expiryDate": "2027-04-16"
+  },
+  {
+    "_id": {
+      "$oid": "ec3640d311e14a1bb6e56a32"
+    },
+    "id": 48,
+    "name": "Brow Pencil 15ml",
+    "category": "Cosmetics",
+    "stock": 282,
+    "costPrice": 1114,
+    "salePrice": 1539,
+    "unitsSold": 344,
+    "lowStockAlert": 35,
+    "highStockAlert": 435,
+    "reorderQuantity": 88,
+    "dateRenewed": "2025-09-01",
+    "manufacturingDate": "2025-02-27",
+    "expiryDate": "2027-02-27"
+  },
+  {
+    "_id": {
+      "$oid": "40a46861e86d44a697f8b035"
+    },
+    "id": 49,
+    "name": "Brow Pencil 2pc",
+    "category": "Cosmetics",
+    "stock": 209,
+    "costPrice": 801,
+    "salePrice": 939,
+    "unitsSold": 98,
+    "lowStockAlert": 50,
+    "highStockAlert": 442,
+    "reorderQuantity": 100,
+    "dateRenewed": "2025-09-06",
+    "manufacturingDate": "2025-03-02",
+    "expiryDate": "2027-03-02"
+  },
+  {
+    "_id": {
+      "$oid": "8b03bbb731d946a3898824cd"
+    },
+    "id": 50,
+    "name": "Concealer Stick 1pc",
+    "category": "Cosmetics",
+    "stock": 112,
+    "costPrice": 879,
+    "salePrice": 1211,
+    "unitsSold": 212,
+    "lowStockAlert": 50,
+    "highStockAlert": 416,
+    "reorderQuantity": 80,
+    "dateRenewed": "2025-10-18",
+    "manufacturingDate": "2025-05-25",
+    "expiryDate": "2027-05-25"
+  },
+  {
+    "_id": {
+      "$oid": "839fbbbc5b14473a89bfce1a"
+    },
+    "id": 51,
+    "name": "Kajal Pencil 1pc",
+    "category": "Cosmetics",
+    "stock": 192,
+    "costPrice": 1010,
+    "salePrice": 1397,
+    "unitsSold": 391,
+    "lowStockAlert": 54,
+    "highStockAlert": 347,
+    "reorderQuantity": 143,
+    "dateRenewed": "2025-10-04",
+    "manufacturingDate": "2025-01-27",
+    "expiryDate": "2027-01-27"
+  },
+  {
+    "_id": {
+      "$oid": "f373beabd3d4461abc15eca6"
+    },
+    "id": 52,
+    "name": "Kajal Pencil 1pc",
+    "category": "Cosmetics",
+    "stock": 284,
+    "costPrice": 755,
+    "salePrice": 980,
+    "unitsSold": 449,
+    "lowStockAlert": 30,
+    "highStockAlert": 401,
+    "reorderQuantity": 205,
+    "dateRenewed": "2025-10-17",
+    "manufacturingDate": "2025-05-22",
+    "expiryDate": "2027-05-22"
+  },
+  {
+    "_id": {
+      "$oid": "40fc01402c90420593e6b136"
+    },
+    "id": 53,
+    "name": "Brow Pencil 10g",
+    "category": "Cosmetics",
+    "stock": 152,
+    "costPrice": 635,
+    "salePrice": 801,
+    "unitsSold": 125,
+    "lowStockAlert": 37,
+    "highStockAlert": 363,
+    "reorderQuantity": 177,
+    "dateRenewed": "2025-10-14",
+    "manufacturingDate": "2025-05-03",
+    "expiryDate": "2027-05-03"
+  },
+  {
+    "_id": {
+      "$oid": "94a6234b1c734b24a81d1238"
+    },
+    "id": 54,
+    "name": "Volumizing Mascara 5g",
+    "category": "Cosmetics",
+    "stock": 132,
+    "costPrice": 852,
+    "salePrice": 1160,
+    "unitsSold": 79,
+    "lowStockAlert": 34,
+    "highStockAlert": 297,
+    "reorderQuantity": 151,
+    "dateRenewed": "2025-09-24",
+    "manufacturingDate": "2025-01-08",
+    "expiryDate": "2027-01-08"
+  },
+  {
+    "_id": {
+      "$oid": "ead9be09a7b6411b9cd87214"
+    },
+    "id": 55,
+    "name": "Compact Powder 2pc",
+    "category": "Cosmetics",
+    "stock": 76,
+    "costPrice": 978,
+    "salePrice": 1361,
+    "unitsSold": 439,
+    "lowStockAlert": 31,
+    "highStockAlert": 300,
+    "reorderQuantity": 131,
+    "dateRenewed": "2025-09-30",
+    "manufacturingDate": "2025-01-08",
+    "expiryDate": "2027-01-08"
+  },
+  {
+    "_id": {
+      "$oid": "ae13d424fc874140b95bd0c5"
+    },
+    "id": 56,
+    "name": "Volumizing Mascara 20g",
+    "category": "Cosmetics",
+    "stock": 64,
+    "costPrice": 1075,
+    "salePrice": 1491,
+    "unitsSold": 451,
+    "lowStockAlert": 26,
+    "highStockAlert": 331,
+    "reorderQuantity": 197,
+    "dateRenewed": "2025-10-06",
+    "manufacturingDate": "2025-02-10",
+    "expiryDate": "2027-02-10"
+  },
+  {
+    "_id": {
+      "$oid": "f301662657c7404fbf4eac0e"
+    },
+    "id": 57,
+    "name": "Eyeshadow Palette 10g",
+    "category": "Cosmetics",
+    "stock": 108,
+    "costPrice": 1127,
+    "salePrice": 1430,
+    "unitsSold": 388,
+    "lowStockAlert": 48,
+    "highStockAlert": 345,
+    "reorderQuantity": 96,
+    "dateRenewed": "2025-10-18",
+    "manufacturingDate": "2025-02-26",
+    "expiryDate": "2027-02-26"
+  },
+  {
+    "_id": {
+      "$oid": "dd5da649acb449a3893a2d04"
+    },
+    "id": 58,
+    "name": "Liquid Eyeliner 20g",
+    "category": "Cosmetics",
+    "stock": 76,
+    "costPrice": 947,
+    "salePrice": 1121,
+    "unitsSold": 188,
+    "lowStockAlert": 34,
+    "highStockAlert": 293,
+    "reorderQuantity": 122,
+    "dateRenewed": "2025-10-15",
+    "manufacturingDate": "2025-06-13",
+    "expiryDate": "2027-06-13"
+  },
+  {
+    "_id": {
+      "$oid": "e3c98b6ddb03439f8f10fcb2"
+    },
+    "id": 59,
+    "name": "BB Cream 1pc",
+    "category": "Cosmetics",
+    "stock": 264,
+    "costPrice": 965,
+    "salePrice": 1210,
+    "unitsSold": 251,
+    "lowStockAlert": 36,
+    "highStockAlert": 390,
+    "reorderQuantity": 161,
+    "dateRenewed": "2025-10-24",
+    "manufacturingDate": "2025-02-25",
+    "expiryDate": "2027-02-25"
+  },
+  {
+    "_id": {
+      "$oid": "6c62990b48434ff98b47d2db"
+    },
+    "id": 60,
+    "name": "Compact Powder 20g",
+    "category": "Cosmetics",
+    "stock": 190,
+    "costPrice": 915,
+    "salePrice": 1075,
+    "unitsSold": 437,
+    "lowStockAlert": 26,
+    "highStockAlert": 404,
+    "reorderQuantity": 116,
+    "dateRenewed": "2025-09-03",
+    "manufacturingDate": "2025-06-29",
+    "expiryDate": "2027-06-29"
+  },
+  {
+    "_id": {
+      "$oid": "4ae56c0674874cb998e3d5aa"
+    },
+    "id": 61,
+    "name": "Highlighter Palette 5g",
+    "category": "Cosmetics",
+    "stock": 247,
+    "costPrice": 1020,
+    "salePrice": 1197,
+    "unitsSold": 168,
+    "lowStockAlert": 25,
+    "highStockAlert": 368,
+    "reorderQuantity": 118,
+    "dateRenewed": "2025-09-30",
+    "manufacturingDate": "2025-06-22",
+    "expiryDate": "2027-06-22"
+  },
+  {
+    "_id": {
+      "$oid": "7d40a942d9bf419ebcb9c08a"
+    },
+    "id": 62,
+    "name": "Volumizing Mascara 1pc",
+    "category": "Cosmetics",
+    "stock": 52,
+    "costPrice": 1126,
+    "salePrice": 1383,
+    "unitsSold": 318,
+    "lowStockAlert": 50,
+    "highStockAlert": 318,
+    "reorderQuantity": 191,
+    "dateRenewed": "2025-10-11",
+    "manufacturingDate": "2025-01-22",
+    "expiryDate": "2027-01-22"
+  },
+  {
+    "_id": {
+      "$oid": "22eea620cda44656bf7b33fa"
+    },
+    "id": 63,
+    "name": "Tinted Lip Balm 1pc",
+    "category": "Cosmetics",
+    "stock": 221,
+    "costPrice": 880,
+    "salePrice": 1231,
+    "unitsSold": 184,
+    "lowStockAlert": 25,
+    "highStockAlert": 388,
+    "reorderQuantity": 90,
+    "dateRenewed": "2025-10-18",
+    "manufacturingDate": "2025-02-13",
+    "expiryDate": "2027-02-13"
+  },
+  {
+    "_id": {
+      "$oid": "e299e76f03d24999b2c94592"
+    },
+    "id": 64,
+    "name": "Matte Finish Lipstick 2pc",
+    "category": "Cosmetics",
+    "stock": 185,
+    "costPrice": 708,
+    "salePrice": 975,
+    "unitsSold": 423,
+    "lowStockAlert": 52,
+    "highStockAlert": 288,
+    "reorderQuantity": 208,
+    "dateRenewed": "2025-10-30",
+    "manufacturingDate": "2025-05-16",
+    "expiryDate": "2027-05-16"
+  },
+  {
+    "_id": {
+      "$oid": "5c1ad776b3024c258ad5d2c2"
+    },
+    "id": 65,
+    "name": "Volumizing Mascara 10g",
+    "category": "Cosmetics",
+    "stock": 70,
+    "costPrice": 1005,
+    "salePrice": 1178,
+    "unitsSold": 75,
+    "lowStockAlert": 38,
+    "highStockAlert": 299,
+    "reorderQuantity": 90,
+    "dateRenewed": "2025-10-16",
+    "manufacturingDate": "2025-03-07",
+    "expiryDate": "2027-03-07"
+  },
+  {
+    "_id": {
+      "$oid": "fd14229641c24e1492942102"
+    },
+    "id": 66,
+    "name": "Tinted Lip Balm 10g",
+    "category": "Cosmetics",
+    "stock": 176,
+    "costPrice": 1045,
+    "salePrice": 1375,
+    "unitsSold": 410,
+    "lowStockAlert": 41,
+    "highStockAlert": 349,
+    "reorderQuantity": 90,
+    "dateRenewed": "2025-10-21",
+    "manufacturingDate": "2025-03-18",
+    "expiryDate": "2027-03-18"
+  },
+  {
+    "_id": {
+      "$oid": "70f7b727d39743e39e0667ed"
+    },
+    "id": 67,
+    "name": "Lip Liner 10g",
+    "category": "Cosmetics",
+    "stock": 228,
+    "costPrice": 1038,
+    "salePrice": 1356,
+    "unitsSold": 384,
+    "lowStockAlert": 36,
+    "highStockAlert": 417,
+    "reorderQuantity": 209,
+    "dateRenewed": "2025-09-16",
+    "manufacturingDate": "2025-05-18",
+    "expiryDate": "2027-05-18"
+  },
+  {
+    "_id": {
+      "$oid": "c9c731d3a9b141068533f8d1"
+    },
+    "id": 68,
+    "name": "Lip Gloss 5g",
+    "category": "Cosmetics",
+    "stock": 183,
+    "costPrice": 1145,
+    "salePrice": 1575,
+    "unitsSold": 327,
+    "lowStockAlert": 32,
+    "highStockAlert": 304,
+    "reorderQuantity": 149,
+    "dateRenewed": "2025-09-05",
+    "manufacturingDate": "2025-06-03",
+    "expiryDate": "2027-06-03"
+  },
+  {
+    "_id": {
+      "$oid": "344edd3a7e624c70b7c52298"
+    },
+    "id": 69,
+    "name": "Brow Pencil 5g",
+    "category": "Cosmetics",
+    "stock": 120,
+    "costPrice": 743,
+    "salePrice": 859,
+    "unitsSold": 193,
+    "lowStockAlert": 35,
+    "highStockAlert": 314,
+    "reorderQuantity": 152,
+    "dateRenewed": "2025-09-27",
+    "manufacturingDate": "2025-02-16",
+    "expiryDate": "2027-02-16"
+  },
+  {
+    "_id": {
+      "$oid": "e6beda3640c74d928ef00736"
+    },
+    "id": 70,
+    "name": "Matte Finish Lipstick 5g",
+    "category": "Cosmetics",
+    "stock": 225,
+    "costPrice": 891,
+    "salePrice": 1133,
+    "unitsSold": 364,
+    "lowStockAlert": 45,
+    "highStockAlert": 429,
+    "reorderQuantity": 119,
+    "dateRenewed": "2025-09-19",
+    "manufacturingDate": "2025-05-05",
+    "expiryDate": "2027-05-05"
+  },
+  {
+    "_id": {
+      "$oid": "3ed770305c5a4cb19f791ee8"
+    },
+    "id": 71,
+    "name": "Lip Gloss 2pc",
+    "category": "Cosmetics",
+    "stock": 96,
+    "costPrice": 852,
+    "salePrice": 1062,
+    "unitsSold": 210,
+    "lowStockAlert": 56,
+    "highStockAlert": 335,
+    "reorderQuantity": 145,
+    "dateRenewed": "2025-10-04",
+    "manufacturingDate": "2025-04-05",
+    "expiryDate": "2027-04-05"
+  },
+  {
+    "_id": {
+      "$oid": "e13a3f150cc746d4a5ef01a3"
+    },
+    "id": 72,
+    "name": "Matte Finish Lipstick 10g",
+    "category": "Cosmetics",
+    "stock": 282,
+    "costPrice": 628,
+    "salePrice": 779,
+    "unitsSold": 244,
+    "lowStockAlert": 26,
+    "highStockAlert": 441,
+    "reorderQuantity": 189,
+    "dateRenewed": "2025-09-30",
+    "manufacturingDate": "2025-02-20",
+    "expiryDate": "2027-02-20"
+  },
+  {
+    "_id": {
+      "$oid": "dcea7f42bb064712ad72ead3"
+    },
+    "id": 73,
+    "name": "Concealer Stick 10g",
+    "category": "Cosmetics",
+    "stock": 71,
+    "costPrice": 958,
+    "salePrice": 1322,
+    "unitsSold": 449,
+    "lowStockAlert": 29,
+    "highStockAlert": 341,
+    "reorderQuantity": 176,
+    "dateRenewed": "2025-10-28",
+    "manufacturingDate": "2025-03-25",
+    "expiryDate": "2027-03-25"
+  },
+  {
+    "_id": {
+      "$oid": "26ba4f3678124173b5603f0a"
+    },
+    "id": 74,
+    "name": "Lip Gloss 15ml",
+    "category": "Cosmetics",
+    "stock": 106,
+    "costPrice": 1095,
+    "salePrice": 1338,
+    "unitsSold": 254,
+    "lowStockAlert": 50,
+    "highStockAlert": 252,
+    "reorderQuantity": 83,
+    "dateRenewed": "2025-09-30",
+    "manufacturingDate": "2025-02-24",
+    "expiryDate": "2027-02-24"
+  },
+  {
+    "_id": {
+      "$oid": "eb94ed23df0348e0ba096daa"
+    },
+    "id": 75,
+    "name": "Brow Pencil 15ml",
+    "category": "Cosmetics",
+    "stock": 156,
+    "costPrice": 1066,
+    "salePrice": 1430,
+    "unitsSold": 380,
+    "lowStockAlert": 39,
+    "highStockAlert": 273,
+    "reorderQuantity": 132,
+    "dateRenewed": "2025-10-17",
+    "manufacturingDate": "2025-06-11",
+    "expiryDate": "2027-06-11"
+  },
+  {
+    "_id": {
+      "$oid": "bbbdc607001f4b008dd0927a"
+    },
+    "id": 76,
+    "name": "Compact Powder 1pc",
+    "category": "Cosmetics",
+    "stock": 57,
+    "costPrice": 873,
+    "salePrice": 1213,
+    "unitsSold": 496,
+    "lowStockAlert": 55,
+    "highStockAlert": 374,
+    "reorderQuantity": 88,
+    "dateRenewed": "2025-09-27",
+    "manufacturingDate": "2025-01-15",
+    "expiryDate": "2027-01-15"
+  },
+  {
+    "_id": {
+      "$oid": "c99a5da33b7a44e6b0bcbc06"
+    },
+    "id": 77,
+    "name": "Makeup Remover 5g",
+    "category": "Cosmetics",
+    "stock": 136,
+    "costPrice": 985,
+    "salePrice": 1208,
+    "unitsSold": 56,
+    "lowStockAlert": 39,
+    "highStockAlert": 364,
+    "reorderQuantity": 174,
+    "dateRenewed": "2025-10-13",
+    "manufacturingDate": "2025-03-03",
+    "expiryDate": "2027-03-03"
+  },
+  {
+    "_id": {
+      "$oid": "442afd9ac6824f4d9fdaf53c"
+    },
+    "id": 78,
+    "name": "Tinted Lip Balm 15ml",
+    "category": "Cosmetics",
+    "stock": 224,
+    "costPrice": 873,
+    "salePrice": 1046,
+    "unitsSold": 252,
+    "lowStockAlert": 53,
+    "highStockAlert": 372,
+    "reorderQuantity": 85,
+    "dateRenewed": "2025-09-21",
+    "manufacturingDate": "2025-03-11",
+    "expiryDate": "2027-03-11"
+  },
+  {
+    "_id": {
+      "$oid": "d3068ad288ec4a199770c21b"
+    },
+    "id": 79,
+    "name": "Makeup Remover 2pc",
+    "category": "Cosmetics",
+    "stock": 82,
+    "costPrice": 965,
+    "salePrice": 1234,
+    "unitsSold": 112,
+    "lowStockAlert": 39,
+    "highStockAlert": 292,
+    "reorderQuantity": 219,
+    "dateRenewed": "2025-09-07",
+    "manufacturingDate": "2025-04-27",
+    "expiryDate": "2027-04-27"
+  },
+  {
+    "_id": {
+      "$oid": "fe09ce5a19b9474eafaae837"
+    },
+    "id": 80,
+    "name": "Kajal Pencil 15ml",
+    "category": "Cosmetics",
+    "stock": 178,
+    "costPrice": 715,
+    "salePrice": 873,
+    "unitsSold": 489,
+    "lowStockAlert": 38,
+    "highStockAlert": 324,
+    "reorderQuantity": 204,
+    "dateRenewed": "2025-10-09",
+    "manufacturingDate": "2025-02-02",
+    "expiryDate": "2027-02-02"
+  },
+  {
+    "_id": {
+      "$oid": "87b8f54bfe3f41919859ee9d"
+    },
+    "id": 81,
+    "name": "Setting Spray 15ml",
+    "category": "Cosmetics",
+    "stock": 65,
+    "costPrice": 1161,
+    "salePrice": 1433,
+    "unitsSold": 231,
+    "lowStockAlert": 57,
+    "highStockAlert": 283,
+    "reorderQuantity": 146,
+    "dateRenewed": "2025-09-13",
+    "manufacturingDate": "2025-05-01",
+    "expiryDate": "2027-05-01"
+  },
+  {
+    "_id": {
+      "$oid": "964b94c2e239498796adb9ab"
+    },
+    "id": 82,
+    "name": "Liquid Eyeliner 2pc",
+    "category": "Cosmetics",
+    "stock": 102,
+    "costPrice": 706,
+    "salePrice": 944,
+    "unitsSold": 138,
+    "lowStockAlert": 30,
+    "highStockAlert": 295,
+    "reorderQuantity": 102,
+    "dateRenewed": "2025-09-24",
+    "manufacturingDate": "2025-03-25",
+    "expiryDate": "2027-03-25"
+  },
+  {
+    "_id": {
+      "$oid": "4b39505fd23945a7aaea24d1"
+    },
+    "id": 83,
+    "name": "Liquid Eyeliner 1pc",
+    "category": "Cosmetics",
+    "stock": 95,
+    "costPrice": 1188,
+    "salePrice": 1562,
+    "unitsSold": 118,
+    "lowStockAlert": 49,
+    "highStockAlert": 302,
+    "reorderQuantity": 160,
+    "dateRenewed": "2025-09-20",
+    "manufacturingDate": "2025-02-07",
+    "expiryDate": "2027-02-07"
+  },
+  {
+    "_id": {
+      "$oid": "2a4cabcf7dce452db3085ec3"
+    },
+    "id": 84,
+    "name": "Compact Powder 5g",
+    "category": "Cosmetics",
+    "stock": 194,
+    "costPrice": 647,
+    "salePrice": 901,
+    "unitsSold": 137,
+    "lowStockAlert": 33,
+    "highStockAlert": 276,
+    "reorderQuantity": 95,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-06-01",
+    "expiryDate": "2027-06-01"
+  },
+  {
+    "_id": {
+      "$oid": "6d42f4d9693c42899cfe2888"
+    },
+    "id": 85,
+    "name": "Blush Powder 10g",
+    "category": "Cosmetics",
+    "stock": 50,
+    "costPrice": 925,
+    "salePrice": 1177,
+    "unitsSold": 83,
+    "lowStockAlert": 35,
+    "highStockAlert": 250,
+    "reorderQuantity": 183,
+    "dateRenewed": "2025-10-10",
+    "manufacturingDate": "2025-02-11",
+    "expiryDate": "2027-02-11"
+  },
+  {
+    "_id": {
+      "$oid": "8e1ce4088bed460486508770"
+    },
+    "id": 86,
+    "name": "BB Cream 10g",
+    "category": "Cosmetics",
+    "stock": 82,
+    "costPrice": 656,
+    "salePrice": 873,
+    "unitsSold": 265,
+    "lowStockAlert": 28,
+    "highStockAlert": 375,
+    "reorderQuantity": 138,
+    "dateRenewed": "2025-09-24",
+    "manufacturingDate": "2025-05-14",
+    "expiryDate": "2027-05-14"
+  },
+  {
+    "_id": {
+      "$oid": "9b8c70c212704cccba5ef5fd"
+    },
+    "id": 87,
+    "name": "Matte Finish Lipstick 20g",
+    "category": "Cosmetics",
+    "stock": 253,
+    "costPrice": 991,
+    "salePrice": 1387,
+    "unitsSold": 218,
+    "lowStockAlert": 43,
+    "highStockAlert": 446,
+    "reorderQuantity": 175,
+    "dateRenewed": "2025-09-19",
+    "manufacturingDate": "2025-05-05",
+    "expiryDate": "2027-05-05"
+  },
+  {
+    "_id": {
+      "$oid": "8fdc020eb7e3445a8fd6b502"
+    },
+    "id": 88,
+    "name": "Brow Pencil 5g",
+    "category": "Cosmetics",
+    "stock": 239,
+    "costPrice": 945,
+    "salePrice": 1126,
+    "unitsSold": 311,
+    "lowStockAlert": 31,
+    "highStockAlert": 357,
+    "reorderQuantity": 167,
+    "dateRenewed": "2025-09-26",
+    "manufacturingDate": "2025-04-11",
+    "expiryDate": "2027-04-11"
+  },
+  {
+    "_id": {
+      "$oid": "4a0546e40d244c768f3557c8"
+    },
+    "id": 89,
+    "name": "Makeup Remover 5g",
+    "category": "Cosmetics",
+    "stock": 219,
+    "costPrice": 1084,
+    "salePrice": 1420,
+    "unitsSold": 312,
+    "lowStockAlert": 49,
+    "highStockAlert": 317,
+    "reorderQuantity": 181,
+    "dateRenewed": "2025-09-28",
+    "manufacturingDate": "2025-02-22",
+    "expiryDate": "2027-02-22"
+  },
+  {
+    "_id": {
+      "$oid": "b048a53bca9a49018d3936d4"
+    },
+    "id": 90,
+    "name": "Makeup Remover 20g",
+    "category": "Cosmetics",
+    "stock": 251,
+    "costPrice": 1068,
+    "salePrice": 1318,
+    "unitsSold": 230,
+    "lowStockAlert": 52,
+    "highStockAlert": 434,
+    "reorderQuantity": 211,
+    "dateRenewed": "2025-10-19",
+    "manufacturingDate": "2025-04-17",
+    "expiryDate": "2027-04-17"
+  },
+  {
+    "_id": {
+      "$oid": "ebcf455ece924864909883fb"
+    },
+    "id": 91,
+    "name": "Sunscreen SPF 50 200ml",
+    "category": "Skincare",
+    "stock": 111,
+    "costPrice": 1239,
+    "salePrice": 1630,
+    "unitsSold": 415,
+    "lowStockAlert": 21,
+    "highStockAlert": 153,
+    "reorderQuantity": 90,
+    "dateRenewed": "2025-09-08",
+    "manufacturingDate": "2025-05-04",
+    "expiryDate": "2027-05-04"
+  },
+  {
+    "_id": {
+      "$oid": "5ae0d7571d14491e923a860d"
+    },
+    "id": 92,
+    "name": "Acne Control Gel 150ml",
+    "category": "Skincare",
+    "stock": 142,
+    "costPrice": 682,
+    "salePrice": 877,
+    "unitsSold": 440,
+    "lowStockAlert": 21,
+    "highStockAlert": 148,
+    "reorderQuantity": 46,
+    "dateRenewed": "2025-09-11",
+    "manufacturingDate": "2025-05-17",
+    "expiryDate": "2027-05-17"
+  },
+  {
+    "_id": {
+      "$oid": "992031b1b5a44b488ccb8784"
+    },
+    "id": 93,
+    "name": "Brightening Day Cream 100ml",
+    "category": "Skincare",
+    "stock": 93,
+    "costPrice": 1336,
+    "salePrice": 1724,
+    "unitsSold": 164,
+    "lowStockAlert": 30,
+    "highStockAlert": 200,
+    "reorderQuantity": 96,
+    "dateRenewed": "2025-09-19",
+    "manufacturingDate": "2025-01-29",
+    "expiryDate": "2027-01-29"
+  },
+  {
+    "_id": {
+      "$oid": "33decab7962943688b97448a"
+    },
+    "id": 94,
+    "name": "Hydrating Face Serum 150ml",
+    "category": "Skincare",
+    "stock": 133,
+    "costPrice": 1487,
+    "salePrice": 1723,
+    "unitsSold": 127,
+    "lowStockAlert": 26,
+    "highStockAlert": 156,
+    "reorderQuantity": 102,
+    "dateRenewed": "2025-09-03",
+    "manufacturingDate": "2025-03-11",
+    "expiryDate": "2027-03-11"
+  },
+  {
+    "_id": {
+      "$oid": "f1eba86710774248bbd44efc"
+    },
+    "id": 95,
+    "name": "Clay Mask 30ml",
+    "category": "Skincare",
+    "stock": 82,
+    "costPrice": 1314,
+    "salePrice": 1538,
+    "unitsSold": 461,
+    "lowStockAlert": 17,
+    "highStockAlert": 120,
+    "reorderQuantity": 107,
+    "dateRenewed": "2025-10-25",
+    "manufacturingDate": "2025-03-25",
+    "expiryDate": "2027-03-25"
+  },
+  {
+    "_id": {
+      "$oid": "c5f6a7f9fc194400bb59df25"
+    },
+    "id": 96,
+    "name": "Vitamin C Brightening Gel 150ml",
+    "category": "Skincare",
+    "stock": 105,
+    "costPrice": 867,
+    "salePrice": 1183,
+    "unitsSold": 267,
+    "lowStockAlert": 25,
+    "highStockAlert": 209,
+    "reorderQuantity": 101,
+    "dateRenewed": "2025-09-09",
+    "manufacturingDate": "2025-01-03",
+    "expiryDate": "2027-01-03"
+  },
+  {
+    "_id": {
+      "$oid": "97c3ea16d6684d5ca0df1255"
+    },
+    "id": 97,
+    "name": "Face Cleanser 100ml",
+    "category": "Skincare",
+    "stock": 41,
+    "costPrice": 1111,
+    "salePrice": 1399,
+    "unitsSold": 191,
+    "lowStockAlert": 25,
+    "highStockAlert": 201,
+    "reorderQuantity": 115,
+    "dateRenewed": "2025-09-13",
+    "manufacturingDate": "2025-05-09",
+    "expiryDate": "2027-05-09"
+  },
+  {
+    "_id": {
+      "$oid": "49c895e5d0c04fbca61a04b2"
+    },
+    "id": 98,
+    "name": "Anti-Aging Night Cream 50ml",
+    "category": "Skincare",
+    "stock": 30,
+    "costPrice": 1224,
+    "salePrice": 1604,
+    "unitsSold": 475,
+    "lowStockAlert": 30,
+    "highStockAlert": 159,
+    "reorderQuantity": 82,
+    "dateRenewed": "2025-10-28",
+    "manufacturingDate": "2025-04-14",
+    "expiryDate": "2027-04-14"
+  },
+  {
+    "_id": {
+      "$oid": "9a4f08466edb407fa64c4d58"
+    },
+    "id": 99,
+    "name": "Nourishing Face Cream 50ml",
+    "category": "Skincare",
+    "stock": 59,
+    "costPrice": 754,
+    "salePrice": 873,
+    "unitsSold": 193,
+    "lowStockAlert": 26,
+    "highStockAlert": 174,
+    "reorderQuantity": 53,
+    "dateRenewed": "2025-09-02",
+    "manufacturingDate": "2025-01-01",
+    "expiryDate": "2027-01-01"
+  },
+  {
+    "_id": {
+      "$oid": "f6fca7aa3d6b499582015ec2"
+    },
+    "id": 100,
+    "name": "Nourishing Face Cream 100ml",
+    "category": "Skincare",
+    "stock": 119,
+    "costPrice": 1124,
+    "salePrice": 1361,
+    "unitsSold": 453,
+    "lowStockAlert": 21,
+    "highStockAlert": 209,
+    "reorderQuantity": 91,
+    "dateRenewed": "2025-10-27",
+    "manufacturingDate": "2025-02-26",
+    "expiryDate": "2027-02-26"
+  },
+  {
+    "_id": {
+      "$oid": "f39323dc2790421e9864eadd"
+    },
+    "id": 101,
+    "name": "Face Cleanser 50ml",
+    "category": "Skincare",
+    "stock": 91,
+    "costPrice": 728,
+    "salePrice": 953,
+    "unitsSold": 419,
+    "lowStockAlert": 26,
+    "highStockAlert": 149,
+    "reorderQuantity": 97,
+    "dateRenewed": "2025-09-16",
+    "manufacturingDate": "2025-03-04",
+    "expiryDate": "2027-03-04"
+  },
+  {
+    "_id": {
+      "$oid": "419a46744dca47e2bc6f7d1f"
+    },
+    "id": 102,
+    "name": "Face Cleanser 250ml",
+    "category": "Skincare",
+    "stock": 74,
+    "costPrice": 1163,
+    "salePrice": 1482,
+    "unitsSold": 122,
+    "lowStockAlert": 23,
+    "highStockAlert": 153,
+    "reorderQuantity": 99,
+    "dateRenewed": "2025-09-04",
+    "manufacturingDate": "2025-06-07",
+    "expiryDate": "2027-06-07"
+  },
+  {
+    "_id": {
+      "$oid": "d47ffdbbbdc347b2b7d204a9"
+    },
+    "id": 103,
+    "name": "Hydrating Face Serum 100ml",
+    "category": "Skincare",
+    "stock": 146,
+    "costPrice": 989,
+    "salePrice": 1203,
+    "unitsSold": 249,
+    "lowStockAlert": 27,
+    "highStockAlert": 184,
+    "reorderQuantity": 87,
+    "dateRenewed": "2025-09-27",
+    "manufacturingDate": "2025-02-24",
+    "expiryDate": "2027-02-24"
+  },
+  {
+    "_id": {
+      "$oid": "badb1eb96fdd436b8d4ace32"
+    },
+    "id": 104,
+    "name": "Sunscreen SPF 50 250ml",
+    "category": "Skincare",
+    "stock": 96,
+    "costPrice": 1076,
+    "salePrice": 1488,
+    "unitsSold": 486,
+    "lowStockAlert": 15,
+    "highStockAlert": 132,
+    "reorderQuantity": 115,
+    "dateRenewed": "2025-10-05",
+    "manufacturingDate": "2025-01-17",
+    "expiryDate": "2027-01-17"
+  },
+  {
+    "_id": {
+      "$oid": "6f503eada86a419c91b9840a"
+    },
+    "id": 105,
+    "name": "Charcoal Face Mask 250ml",
+    "category": "Skincare",
+    "stock": 43,
+    "costPrice": 801,
+    "salePrice": 1077,
+    "unitsSold": 482,
+    "lowStockAlert": 16,
+    "highStockAlert": 172,
+    "reorderQuantity": 40,
+    "dateRenewed": "2025-09-18",
+    "manufacturingDate": "2025-03-06",
+    "expiryDate": "2027-03-06"
+  },
+  {
+    "_id": {
+      "$oid": "02dd4a697a5d45bcafcb4744"
+    },
+    "id": 106,
+    "name": "Face Cleanser 100ml",
+    "category": "Skincare",
+    "stock": 138,
+    "costPrice": 1100,
+    "salePrice": 1336,
+    "unitsSold": 258,
+    "lowStockAlert": 28,
+    "highStockAlert": 180,
+    "reorderQuantity": 90,
+    "dateRenewed": "2025-09-07",
+    "manufacturingDate": "2025-03-20",
+    "expiryDate": "2027-03-20"
+  },
+  {
+    "_id": {
+      "$oid": "ffeab4b9028f4fa9b1d41aab"
+    },
+    "id": 107,
+    "name": "Under Eye Cream 250ml",
+    "category": "Skincare",
+    "stock": 111,
+    "costPrice": 1382,
+    "salePrice": 1636,
+    "unitsSold": 349,
+    "lowStockAlert": 23,
+    "highStockAlert": 200,
+    "reorderQuantity": 40,
+    "dateRenewed": "2025-10-12",
+    "manufacturingDate": "2025-03-29",
+    "expiryDate": "2027-03-29"
+  },
+  {
+    "_id": {
+      "$oid": "bc2ffc1a75b646ba8806fde7"
+    },
+    "id": 108,
+    "name": "Anti-Aging Night Cream 150ml",
+    "category": "Skincare",
+    "stock": 105,
+    "costPrice": 1281,
+    "salePrice": 1645,
+    "unitsSold": 292,
+    "lowStockAlert": 18,
+    "highStockAlert": 212,
+    "reorderQuantity": 86,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-03-03",
+    "expiryDate": "2027-03-03"
+  },
+  {
+    "_id": {
+      "$oid": "33ba62fe4cc34743b24211d0"
+    },
+    "id": 109,
+    "name": "Charcoal Face Mask 30ml",
+    "category": "Skincare",
+    "stock": 141,
+    "costPrice": 1359,
+    "salePrice": 1793,
+    "unitsSold": 358,
+    "lowStockAlert": 17,
+    "highStockAlert": 190,
+    "reorderQuantity": 55,
+    "dateRenewed": "2025-09-25",
+    "manufacturingDate": "2025-03-07",
+    "expiryDate": "2027-03-07"
+  },
+  {
+    "_id": {
+      "$oid": "7129690cad174546ae547992"
+    },
+    "id": 110,
+    "name": "Peel Off Mask 100ml",
+    "category": "Skincare",
+    "stock": 72,
+    "costPrice": 1093,
+    "salePrice": 1436,
+    "unitsSold": 76,
+    "lowStockAlert": 21,
+    "highStockAlert": 212,
+    "reorderQuantity": 105,
+    "dateRenewed": "2025-09-24",
+    "manufacturingDate": "2025-05-02",
+    "expiryDate": "2027-05-02"
+  },
+  {
+    "_id": {
+      "$oid": "4deca1b462de4303aa8912a3"
+    },
+    "id": 111,
+    "name": "Acne Control Gel 250ml",
+    "category": "Skincare",
+    "stock": 118,
+    "costPrice": 1378,
+    "salePrice": 1869,
+    "unitsSold": 267,
+    "lowStockAlert": 22,
+    "highStockAlert": 141,
+    "reorderQuantity": 65,
+    "dateRenewed": "2025-10-10",
+    "manufacturingDate": "2025-03-30",
+    "expiryDate": "2027-03-30"
+  },
+  {
+    "_id": {
+      "$oid": "4c3601738218482488709f11"
+    },
+    "id": 112,
+    "name": "Aloe Vera Moisturizer 30ml",
+    "category": "Skincare",
+    "stock": 58,
+    "costPrice": 1070,
+    "salePrice": 1406,
+    "unitsSold": 229,
+    "lowStockAlert": 27,
+    "highStockAlert": 136,
+    "reorderQuantity": 66,
+    "dateRenewed": "2025-10-03",
+    "manufacturingDate": "2025-04-11",
+    "expiryDate": "2027-04-11"
+  },
+  {
+    "_id": {
+      "$oid": "cc3d12d1f3df4c74a547445e"
+    },
+    "id": 113,
+    "name": "Brightening Day Cream 150ml",
+    "category": "Skincare",
+    "stock": 130,
+    "costPrice": 1484,
+    "salePrice": 1962,
+    "unitsSold": 444,
+    "lowStockAlert": 23,
+    "highStockAlert": 175,
+    "reorderQuantity": 117,
+    "dateRenewed": "2025-10-30",
+    "manufacturingDate": "2025-04-17",
+    "expiryDate": "2027-04-17"
+  },
+  {
+    "_id": {
+      "$oid": "13f9d370acdb45e4a20b2544"
+    },
+    "id": 114,
+    "name": "Hyaluronic Acid Serum 250ml",
+    "category": "Skincare",
+    "stock": 115,
+    "costPrice": 910,
+    "salePrice": 1191,
+    "unitsSold": 217,
+    "lowStockAlert": 16,
+    "highStockAlert": 216,
+    "reorderQuantity": 102,
+    "dateRenewed": "2025-10-29",
+    "manufacturingDate": "2025-06-05",
+    "expiryDate": "2027-06-05"
+  },
+  {
+    "_id": {
+      "$oid": "8d64da580fd54328a898e3a2"
+    },
+    "id": 115,
+    "name": "Sunscreen SPF 50 250ml",
+    "category": "Skincare",
+    "stock": 120,
+    "costPrice": 699,
+    "salePrice": 927,
+    "unitsSold": 484,
+    "lowStockAlert": 24,
+    "highStockAlert": 202,
+    "reorderQuantity": 93,
+    "dateRenewed": "2025-09-18",
+    "manufacturingDate": "2025-01-04",
+    "expiryDate": "2027-01-04"
+  },
+  {
+    "_id": {
+      "$oid": "dee479f6365246fd8f4aed46"
+    },
+    "id": 116,
+    "name": "Exfoliating Scrub 250ml",
+    "category": "Skincare",
+    "stock": 69,
+    "costPrice": 938,
+    "salePrice": 1104,
+    "unitsSold": 171,
+    "lowStockAlert": 19,
+    "highStockAlert": 184,
+    "reorderQuantity": 87,
+    "dateRenewed": "2025-10-13",
+    "manufacturingDate": "2025-04-04",
+    "expiryDate": "2027-04-04"
+  },
+  {
+    "_id": {
+      "$oid": "7de7af45c5124c848aa6b8ca"
+    },
+    "id": 117,
+    "name": "Face Oil 250ml",
+    "category": "Skincare",
+    "stock": 84,
+    "costPrice": 1217,
+    "salePrice": 1451,
+    "unitsSold": 21,
+    "lowStockAlert": 24,
+    "highStockAlert": 199,
+    "reorderQuantity": 84,
+    "dateRenewed": "2025-09-03",
+    "manufacturingDate": "2025-01-29",
+    "expiryDate": "2027-01-29"
+  },
+  {
+    "_id": {
+      "$oid": "3f03f0a3ed5a4db6873940dd"
+    },
+    "id": 118,
+    "name": "Charcoal Face Mask 250ml",
+    "category": "Skincare",
+    "stock": 120,
+    "costPrice": 635,
+    "salePrice": 813,
+    "unitsSold": 354,
+    "lowStockAlert": 15,
+    "highStockAlert": 205,
+    "reorderQuantity": 82,
+    "dateRenewed": "2025-09-06",
+    "manufacturingDate": "2025-01-21",
+    "expiryDate": "2027-01-21"
+  },
+  {
+    "_id": {
+      "$oid": "26deebfce9bd4cc49e5e92ea"
+    },
+    "id": 119,
+    "name": "Peel Off Mask 150ml",
+    "category": "Skincare",
+    "stock": 43,
+    "costPrice": 528,
+    "salePrice": 707,
+    "unitsSold": 255,
+    "lowStockAlert": 20,
+    "highStockAlert": 120,
+    "reorderQuantity": 66,
+    "dateRenewed": "2025-09-13",
+    "manufacturingDate": "2025-01-30",
+    "expiryDate": "2027-01-30"
+  },
+  {
+    "_id": {
+      "$oid": "a6554fb24ba54a268d08114c"
+    },
+    "id": 120,
+    "name": "Peel Off Mask 200ml",
+    "category": "Skincare",
+    "stock": 130,
+    "costPrice": 941,
+    "salePrice": 1240,
+    "unitsSold": 185,
+    "lowStockAlert": 15,
+    "highStockAlert": 139,
+    "reorderQuantity": 117,
+    "dateRenewed": "2025-10-09",
+    "manufacturingDate": "2025-02-10",
+    "expiryDate": "2027-02-10"
+  },
+  {
+    "_id": {
+      "$oid": "3239162bd7d44a58886b3659"
+    },
+    "id": 121,
+    "name": "Acne Control Gel 30ml",
+    "category": "Skincare",
+    "stock": 44,
+    "costPrice": 840,
+    "salePrice": 1064,
+    "unitsSold": 302,
+    "lowStockAlert": 27,
+    "highStockAlert": 184,
+    "reorderQuantity": 83,
+    "dateRenewed": "2025-09-23",
+    "manufacturingDate": "2025-06-10",
+    "expiryDate": "2027-06-10"
+  },
+  {
+    "_id": {
+      "$oid": "0ef9ef97a57a4967a9dbca7d"
+    },
+    "id": 122,
+    "name": "Aloe Vera Moisturizer 100ml",
+    "category": "Skincare",
+    "stock": 92,
+    "costPrice": 835,
+    "salePrice": 1074,
+    "unitsSold": 382,
+    "lowStockAlert": 17,
+    "highStockAlert": 219,
+    "reorderQuantity": 89,
+    "dateRenewed": "2025-10-23",
+    "manufacturingDate": "2025-04-06",
+    "expiryDate": "2027-04-06"
+  },
+  {
+    "_id": {
+      "$oid": "cbe7bbe777e84fa3b0a6ff6f"
+    },
+    "id": 123,
+    "name": "Oil-Free Moisturizer 50ml",
+    "category": "Skincare",
+    "stock": 118,
+    "costPrice": 1195,
+    "salePrice": 1598,
+    "unitsSold": 365,
+    "lowStockAlert": 27,
+    "highStockAlert": 199,
+    "reorderQuantity": 77,
+    "dateRenewed": "2025-09-07",
+    "manufacturingDate": "2025-01-14",
+    "expiryDate": "2027-01-14"
+  },
+  {
+    "_id": {
+      "$oid": "a0c19623092b4366825f4d9a"
+    },
+    "id": 124,
+    "name": "Charcoal Face Mask 250ml",
+    "category": "Skincare",
+    "stock": 149,
+    "costPrice": 887,
+    "salePrice": 1067,
+    "unitsSold": 76,
+    "lowStockAlert": 19,
+    "highStockAlert": 215,
+    "reorderQuantity": 49,
+    "dateRenewed": "2025-09-11",
+    "manufacturingDate": "2025-05-25",
+    "expiryDate": "2027-05-25"
+  },
+  {
+    "_id": {
+      "$oid": "c319a99b105042608351caf5"
+    },
+    "id": 125,
+    "name": "Sunscreen SPF 50 50ml",
+    "category": "Skincare",
+    "stock": 103,
+    "costPrice": 1241,
+    "salePrice": 1662,
+    "unitsSold": 46,
+    "lowStockAlert": 17,
+    "highStockAlert": 203,
+    "reorderQuantity": 116,
+    "dateRenewed": "2025-09-29",
+    "manufacturingDate": "2025-06-19",
+    "expiryDate": "2027-06-19"
+  },
+  {
+    "_id": {
+      "$oid": "1337cbaebd384a6880f4ede4"
+    },
+    "id": 126,
+    "name": "Face Oil 150ml",
+    "category": "Skincare",
+    "stock": 35,
+    "costPrice": 599,
+    "salePrice": 739,
+    "unitsSold": 309,
+    "lowStockAlert": 28,
+    "highStockAlert": 139,
+    "reorderQuantity": 113,
+    "dateRenewed": "2025-09-01",
+    "manufacturingDate": "2025-01-03",
+    "expiryDate": "2027-01-03"
+  },
+  {
+    "_id": {
+      "$oid": "fb484bea4f4548599779b0bb"
+    },
+    "id": 127,
+    "name": "Vitamin C Brightening Gel 30ml",
+    "category": "Skincare",
+    "stock": 61,
+    "costPrice": 834,
+    "salePrice": 990,
+    "unitsSold": 215,
+    "lowStockAlert": 21,
+    "highStockAlert": 207,
+    "reorderQuantity": 120,
+    "dateRenewed": "2025-10-06",
+    "manufacturingDate": "2025-01-07",
+    "expiryDate": "2027-01-07"
+  },
+  {
+    "_id": {
+      "$oid": "0f44d567cd2548caa0cd5ef9"
+    },
+    "id": 128,
+    "name": "Gentle Toner 100ml",
+    "category": "Skincare",
+    "stock": 48,
+    "costPrice": 930,
+    "salePrice": 1191,
+    "unitsSold": 73,
+    "lowStockAlert": 22,
+    "highStockAlert": 148,
+    "reorderQuantity": 87,
+    "dateRenewed": "2025-09-19",
+    "manufacturingDate": "2025-01-03",
+    "expiryDate": "2027-01-03"
+  },
+  {
+    "_id": {
+      "$oid": "0029e4e1a53f4405a6733097"
+    },
+    "id": 129,
+    "name": "Oil-Free Moisturizer 250ml",
+    "category": "Skincare",
+    "stock": 123,
+    "costPrice": 543,
+    "salePrice": 728,
+    "unitsSold": 490,
+    "lowStockAlert": 20,
+    "highStockAlert": 219,
+    "reorderQuantity": 63,
+    "dateRenewed": "2025-09-07",
+    "manufacturingDate": "2025-04-30",
+    "expiryDate": "2027-04-30"
+  },
+  {
+    "_id": {
+      "$oid": "b0a6f995a6d44781895df5f8"
+    },
+    "id": 130,
+    "name": "Peel Off Mask 30ml",
+    "category": "Skincare",
+    "stock": 45,
+    "costPrice": 1342,
+    "salePrice": 1878,
+    "unitsSold": 313,
+    "lowStockAlert": 17,
+    "highStockAlert": 152,
+    "reorderQuantity": 64,
+    "dateRenewed": "2025-09-27",
+    "manufacturingDate": "2025-04-22",
+    "expiryDate": "2027-04-22"
+  },
+  {
+    "_id": {
+      "$oid": "47a4b6765d254bcfafa9b9bd"
+    },
+    "id": 131,
+    "name": "Gentle Toner 150ml",
+    "category": "Skincare",
+    "stock": 107,
+    "costPrice": 910,
+    "salePrice": 1113,
+    "unitsSold": 113,
+    "lowStockAlert": 23,
+    "highStockAlert": 135,
+    "reorderQuantity": 104,
+    "dateRenewed": "2025-09-26",
+    "manufacturingDate": "2025-03-23",
+    "expiryDate": "2027-03-23"
+  },
+  {
+    "_id": {
+      "$oid": "d407955a7ba44446992aca50"
+    },
+    "id": 132,
+    "name": "Brightening Day Cream 150ml",
+    "category": "Skincare",
+    "stock": 30,
+    "costPrice": 676,
+    "salePrice": 863,
+    "unitsSold": 451,
+    "lowStockAlert": 19,
+    "highStockAlert": 185,
+    "reorderQuantity": 49,
+    "dateRenewed": "2025-10-29",
+    "manufacturingDate": "2025-04-13",
+    "expiryDate": "2027-04-13"
+  },
+  {
+    "_id": {
+      "$oid": "e923658c4d334e4ba0e3399c"
+    },
+    "id": 133,
+    "name": "Gentle Toner 200ml",
+    "category": "Skincare",
+    "stock": 141,
+    "costPrice": 704,
+    "salePrice": 833,
+    "unitsSold": 315,
+    "lowStockAlert": 28,
+    "highStockAlert": 187,
+    "reorderQuantity": 78,
+    "dateRenewed": "2025-09-26",
+    "manufacturingDate": "2025-03-12",
+    "expiryDate": "2027-03-12"
+  },
+  {
+    "_id": {
+      "$oid": "ee87b065eece4ef2b5562566"
+    },
+    "id": 134,
+    "name": "Gentle Toner 250ml",
+    "category": "Skincare",
+    "stock": 50,
+    "costPrice": 899,
+    "salePrice": 1111,
+    "unitsSold": 149,
+    "lowStockAlert": 17,
+    "highStockAlert": 175,
+    "reorderQuantity": 117,
+    "dateRenewed": "2025-10-25",
+    "manufacturingDate": "2025-05-11",
+    "expiryDate": "2027-05-11"
+  },
+  {
+    "_id": {
+      "$oid": "a7b13aa5b37a4ba59bc2674d"
+    },
+    "id": 135,
+    "name": "Under Eye Cream 50ml",
+    "category": "Skincare",
+    "stock": 71,
+    "costPrice": 1437,
+    "salePrice": 1862,
+    "unitsSold": 357,
+    "lowStockAlert": 27,
+    "highStockAlert": 212,
+    "reorderQuantity": 82,
+    "dateRenewed": "2025-09-11",
+    "manufacturingDate": "2025-04-22",
+    "expiryDate": "2027-04-22"
+  },
+  {
+    "_id": {
+      "$oid": "c921f3fa97174182b875ecaf"
+    },
+    "id": 136,
+    "name": "Hydrating Face Serum 30ml",
+    "category": "Skincare",
+    "stock": 36,
+    "costPrice": 1294,
+    "salePrice": 1569,
+    "unitsSold": 278,
+    "lowStockAlert": 18,
+    "highStockAlert": 147,
+    "reorderQuantity": 49,
+    "dateRenewed": "2025-10-09",
+    "manufacturingDate": "2025-03-15",
+    "expiryDate": "2027-03-15"
+  },
+  {
+    "_id": {
+      "$oid": "abcaedb02b9646c1aacf2b47"
+    },
+    "id": 137,
+    "name": "Face Oil 250ml",
+    "category": "Skincare",
+    "stock": 142,
+    "costPrice": 1428,
+    "salePrice": 1867,
+    "unitsSold": 158,
+    "lowStockAlert": 26,
+    "highStockAlert": 206,
+    "reorderQuantity": 41,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-05-15",
+    "expiryDate": "2027-05-15"
+  },
+  {
+    "_id": {
+      "$oid": "367977e131de4abba338dc53"
+    },
+    "id": 138,
+    "name": "Anti-Aging Night Cream 250ml",
+    "category": "Skincare",
+    "stock": 69,
+    "costPrice": 602,
+    "salePrice": 748,
+    "unitsSold": 100,
+    "lowStockAlert": 26,
+    "highStockAlert": 151,
+    "reorderQuantity": 68,
+    "dateRenewed": "2025-10-23",
+    "manufacturingDate": "2025-01-09",
+    "expiryDate": "2027-01-09"
+  },
+  {
+    "_id": {
+      "$oid": "be3fb0894c6f47ccb651ac66"
+    },
+    "id": 139,
+    "name": "Peel Off Mask 100ml",
+    "category": "Skincare",
+    "stock": 138,
+    "costPrice": 1005,
+    "salePrice": 1397,
+    "unitsSold": 463,
+    "lowStockAlert": 29,
+    "highStockAlert": 129,
+    "reorderQuantity": 94,
+    "dateRenewed": "2025-09-22",
+    "manufacturingDate": "2025-06-13",
+    "expiryDate": "2027-06-13"
+  },
+  {
+    "_id": {
+      "$oid": "2c58967a4c904ffb98f719ad"
+    },
+    "id": 140,
+    "name": "Brightening Day Cream 250ml",
+    "category": "Skincare",
+    "stock": 83,
+    "costPrice": 903,
+    "salePrice": 1145,
+    "unitsSold": 468,
+    "lowStockAlert": 25,
+    "highStockAlert": 194,
+    "reorderQuantity": 77,
+    "dateRenewed": "2025-09-26",
+    "manufacturingDate": "2025-03-17",
+    "expiryDate": "2027-03-17"
+  },
+  {
+    "_id": {
+      "$oid": "45717e0095e94a9789d0df17"
+    },
+    "id": 141,
+    "name": "Gentle Toner 150ml",
+    "category": "Skincare",
+    "stock": 51,
+    "costPrice": 525,
+    "salePrice": 620,
+    "unitsSold": 374,
+    "lowStockAlert": 17,
+    "highStockAlert": 136,
+    "reorderQuantity": 112,
+    "dateRenewed": "2025-09-15",
+    "manufacturingDate": "2025-01-19",
+    "expiryDate": "2027-01-19"
+  },
+  {
+    "_id": {
+      "$oid": "70891f18346f4314bb992ab3"
+    },
+    "id": 142,
+    "name": "Face Cleanser 200ml",
+    "category": "Skincare",
+    "stock": 54,
+    "costPrice": 535,
+    "salePrice": 657,
+    "unitsSold": 424,
+    "lowStockAlert": 28,
+    "highStockAlert": 148,
+    "reorderQuantity": 78,
+    "dateRenewed": "2025-09-05",
+    "manufacturingDate": "2025-06-30",
+    "expiryDate": "2027-06-30"
+  },
+  {
+    "_id": {
+      "$oid": "d28cfb5a5fda4820809f539b"
+    },
+    "id": 143,
+    "name": "Nourishing Face Cream 150ml",
+    "category": "Skincare",
+    "stock": 34,
+    "costPrice": 857,
+    "salePrice": 1036,
+    "unitsSold": 464,
+    "lowStockAlert": 23,
+    "highStockAlert": 145,
+    "reorderQuantity": 42,
+    "dateRenewed": "2025-09-17",
+    "manufacturingDate": "2025-01-18",
+    "expiryDate": "2027-01-18"
+  },
+  {
+    "_id": {
+      "$oid": "f5772a9e7e9642d4a470750a"
+    },
+    "id": 144,
+    "name": "Acne Control Gel 50ml",
+    "category": "Skincare",
+    "stock": 138,
+    "costPrice": 989,
+    "salePrice": 1304,
+    "unitsSold": 144,
+    "lowStockAlert": 18,
+    "highStockAlert": 149,
+    "reorderQuantity": 77,
+    "dateRenewed": "2025-10-15",
+    "manufacturingDate": "2025-06-09",
+    "expiryDate": "2027-06-09"
+  },
+  {
+    "_id": {
+      "$oid": "c5e6719a36cb4fb3959e7227"
+    },
+    "id": 145,
+    "name": "Nourishing Face Cream 150ml",
+    "category": "Skincare",
+    "stock": 106,
+    "costPrice": 1252,
+    "salePrice": 1532,
+    "unitsSold": 493,
+    "lowStockAlert": 30,
+    "highStockAlert": 124,
+    "reorderQuantity": 114,
+    "dateRenewed": "2025-10-09",
+    "manufacturingDate": "2025-05-26",
+    "expiryDate": "2027-05-26"
+  },
+  {
+    "_id": {
+      "$oid": "f6a78dd8381445f585ed2f79"
+    },
+    "id": 146,
+    "name": "Gentle Toner 50ml",
+    "category": "Skincare",
+    "stock": 145,
+    "costPrice": 690,
+    "salePrice": 834,
+    "unitsSold": 145,
+    "lowStockAlert": 17,
+    "highStockAlert": 196,
+    "reorderQuantity": 104,
+    "dateRenewed": "2025-10-17",
+    "manufacturingDate": "2025-01-10",
+    "expiryDate": "2027-01-10"
+  },
+  {
+    "_id": {
+      "$oid": "2cfb83e7f8234555bcc29445"
+    },
+    "id": 147,
+    "name": "Peel Off Mask 100ml",
+    "category": "Skincare",
+    "stock": 36,
+    "costPrice": 721,
+    "salePrice": 856,
+    "unitsSold": 150,
+    "lowStockAlert": 27,
+    "highStockAlert": 205,
+    "reorderQuantity": 77,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-03-31",
+    "expiryDate": "2027-03-31"
+  },
+  {
+    "_id": {
+      "$oid": "581612ebc2c846c29ec1c2c9"
+    },
+    "id": 148,
+    "name": "Soothing Face Mist 150ml",
+    "category": "Skincare",
+    "stock": 132,
+    "costPrice": 952,
+    "salePrice": 1326,
+    "unitsSold": 398,
+    "lowStockAlert": 24,
+    "highStockAlert": 201,
+    "reorderQuantity": 66,
+    "dateRenewed": "2025-10-31",
+    "manufacturingDate": "2025-02-04",
+    "expiryDate": "2027-02-04"
+  },
+  {
+    "_id": {
+      "$oid": "e0fd74d19ff44d50b6f9a3a6"
+    },
+    "id": 149,
+    "name": "Hyaluronic Acid Serum 250ml",
+    "category": "Skincare",
+    "stock": 32,
+    "costPrice": 1300,
+    "salePrice": 1782,
+    "unitsSold": 419,
+    "lowStockAlert": 16,
+    "highStockAlert": 191,
+    "reorderQuantity": 73,
+    "dateRenewed": "2025-09-19",
+    "manufacturingDate": "2025-02-06",
+    "expiryDate": "2027-02-06"
+  },
+  {
+    "_id": {
+      "$oid": "3d94990ed16b41588451f3cc"
+    },
+    "id": 150,
+    "name": "Face Cleanser 250ml",
+    "category": "Skincare",
+    "stock": 81,
+    "costPrice": 838,
+    "salePrice": 1049,
+    "unitsSold": 131,
+    "lowStockAlert": 29,
+    "highStockAlert": 156,
+    "reorderQuantity": 98,
+    "dateRenewed": "2025-10-25",
+    "manufacturingDate": "2025-06-14",
+    "expiryDate": "2027-06-14"
+  },
+  {
+    "_id": {
+      "$oid": "9d0ca6e9c5cc458596a0cf4d"
+    },
+    "id": 151,
+    "name": "Acne Control Gel 30ml",
+    "category": "Skincare",
+    "stock": 61,
+    "costPrice": 1343,
+    "salePrice": 1761,
+    "unitsSold": 217,
+    "lowStockAlert": 27,
+    "highStockAlert": 190,
+    "reorderQuantity": 51,
+    "dateRenewed": "2025-10-27",
+    "manufacturingDate": "2025-04-01",
+    "expiryDate": "2027-04-01"
+  },
+  {
+    "_id": {
+      "$oid": "c0967605056d4272a9e910c2"
+    },
+    "id": 152,
+    "name": "Face Cleanser 100ml",
+    "category": "Skincare",
+    "stock": 56,
+    "costPrice": 1198,
+    "salePrice": 1523,
+    "unitsSold": 227,
+    "lowStockAlert": 30,
+    "highStockAlert": 161,
+    "reorderQuantity": 112,
+    "dateRenewed": "2025-09-30",
+    "manufacturingDate": "2025-01-31",
+    "expiryDate": "2027-01-31"
+  },
+  {
+    "_id": {
+      "$oid": "4ece377bd2064ee4b16c69ff"
+    },
+    "id": 153,
+    "name": "Acne Control Gel 250ml",
+    "category": "Skincare",
+    "stock": 85,
+    "costPrice": 1445,
+    "salePrice": 1950,
+    "unitsSold": 41,
+    "lowStockAlert": 23,
+    "highStockAlert": 217,
+    "reorderQuantity": 43,
+    "dateRenewed": "2025-10-26",
+    "manufacturingDate": "2025-03-09",
+    "expiryDate": "2027-03-09"
+  },
+  {
+    "_id": {
+      "$oid": "3ddfe821df1c47ff9203b4e5"
+    },
+    "id": 154,
+    "name": "Gentle Toner 100ml",
+    "category": "Skincare",
+    "stock": 85,
+    "costPrice": 962,
+    "salePrice": 1153,
+    "unitsSold": 129,
+    "lowStockAlert": 19,
+    "highStockAlert": 187,
+    "reorderQuantity": 106,
+    "dateRenewed": "2025-09-22",
+    "manufacturingDate": "2025-04-20",
+    "expiryDate": "2027-04-20"
+  },
+  {
+    "_id": {
+      "$oid": "fd2bdc9f276741a88a3cef1a"
+    },
+    "id": 155,
+    "name": "Peel Off Mask 30ml",
+    "category": "Skincare",
+    "stock": 114,
+    "costPrice": 984,
+    "salePrice": 1256,
+    "unitsSold": 232,
+    "lowStockAlert": 30,
+    "highStockAlert": 157,
+    "reorderQuantity": 108,
+    "dateRenewed": "2025-09-08",
+    "manufacturingDate": "2025-06-10",
+    "expiryDate": "2027-06-10"
+  },
+  {
+    "_id": {
+      "$oid": "0d7e4a5424284a38ae9f8caf"
+    },
+    "id": 156,
+    "name": "Gentle Toner 200ml",
+    "category": "Skincare",
+    "stock": 137,
+    "costPrice": 1391,
+    "salePrice": 1860,
+    "unitsSold": 163,
+    "lowStockAlert": 19,
+    "highStockAlert": 120,
+    "reorderQuantity": 113,
+    "dateRenewed": "2025-10-19",
+    "manufacturingDate": "2025-05-12",
+    "expiryDate": "2027-05-12"
+  },
+  {
+    "_id": {
+      "$oid": "ee5e2476b18d431988d47b95"
+    },
+    "id": 157,
+    "name": "Oil-Free Moisturizer 250ml",
+    "category": "Skincare",
+    "stock": 95,
+    "costPrice": 1380,
+    "salePrice": 1796,
+    "unitsSold": 469,
+    "lowStockAlert": 27,
+    "highStockAlert": 163,
+    "reorderQuantity": 111,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-01-22",
+    "expiryDate": "2027-01-22"
+  },
+  {
+    "_id": {
+      "$oid": "0179b4a43ef3474a9826a4cc"
+    },
+    "id": 158,
+    "name": "Exfoliating Scrub 150ml",
+    "category": "Skincare",
+    "stock": 78,
+    "costPrice": 943,
+    "salePrice": 1278,
+    "unitsSold": 288,
+    "lowStockAlert": 28,
+    "highStockAlert": 164,
+    "reorderQuantity": 98,
+    "dateRenewed": "2025-10-28",
+    "manufacturingDate": "2025-04-26",
+    "expiryDate": "2027-04-26"
+  },
+  {
+    "_id": {
+      "$oid": "3583157ba4a0424ca9b00193"
+    },
+    "id": 159,
+    "name": "Peel Off Mask 250ml",
+    "category": "Skincare",
+    "stock": 115,
+    "costPrice": 796,
+    "salePrice": 1085,
+    "unitsSold": 497,
+    "lowStockAlert": 26,
+    "highStockAlert": 147,
+    "reorderQuantity": 66,
+    "dateRenewed": "2025-10-23",
+    "manufacturingDate": "2025-03-11",
+    "expiryDate": "2027-03-11"
+  },
+  {
+    "_id": {
+      "$oid": "867a781eb8514e298466b91b"
+    },
+    "id": 160,
+    "name": "Under Eye Cream 100ml",
+    "category": "Skincare",
+    "stock": 68,
+    "costPrice": 518,
+    "salePrice": 722,
+    "unitsSold": 133,
+    "lowStockAlert": 21,
+    "highStockAlert": 123,
+    "reorderQuantity": 116,
+    "dateRenewed": "2025-09-03",
+    "manufacturingDate": "2025-03-19",
+    "expiryDate": "2027-03-19"
+  },
+  {
+    "_id": {
+      "$oid": "1e96867bf2fa44f79ee9f434"
+    },
+    "id": 161,
+    "name": "Volumizing Shampoo 100ml",
+    "category": "Haircare",
+    "stock": 98,
+    "costPrice": 707,
+    "salePrice": 836,
+    "unitsSold": 48,
+    "lowStockAlert": 34,
+    "highStockAlert": 147,
+    "reorderQuantity": 85,
+    "dateRenewed": "2025-10-15",
+    "manufacturingDate": "2025-04-01",
+    "expiryDate": "2027-04-01"
+  },
+  {
+    "_id": {
+      "$oid": "a8d0ef3b50db4e009cd31889"
+    },
+    "id": 162,
+    "name": "Leave-In Conditioner 150ml",
+    "category": "Haircare",
+    "stock": 66,
+    "costPrice": 650,
+    "salePrice": 781,
+    "unitsSold": 307,
+    "lowStockAlert": 33,
+    "highStockAlert": 192,
+    "reorderQuantity": 135,
+    "dateRenewed": "2025-10-05",
+    "manufacturingDate": "2025-02-23",
+    "expiryDate": "2027-02-23"
+  },
+  {
+    "_id": {
+      "$oid": "a67bef8a57e0496f85d73c47"
+    },
+    "id": 163,
+    "name": "Keratin Repair Mask 500ml",
+    "category": "Haircare",
+    "stock": 117,
+    "costPrice": 436,
+    "salePrice": 532,
+    "unitsSold": 248,
+    "lowStockAlert": 21,
+    "highStockAlert": 131,
+    "reorderQuantity": 124,
+    "dateRenewed": "2025-09-19",
+    "manufacturingDate": "2025-01-07",
+    "expiryDate": "2027-01-07"
+  },
+  {
+    "_id": {
+      "$oid": "0c2cf32d2c7c4481a45fb140"
+    },
+    "id": 164,
+    "name": "Hair Serum 300ml",
+    "category": "Haircare",
+    "stock": 43,
+    "costPrice": 921,
+    "salePrice": 1088,
+    "unitsSold": 357,
+    "lowStockAlert": 27,
+    "highStockAlert": 183,
+    "reorderQuantity": 60,
+    "dateRenewed": "2025-10-21",
+    "manufacturingDate": "2025-04-17",
+    "expiryDate": "2027-04-17"
+  },
+  {
+    "_id": {
+      "$oid": "52e130318d36470f905e596e"
+    },
+    "id": 165,
+    "name": "Volumizing Shampoo 250ml",
+    "category": "Haircare",
+    "stock": 100,
+    "costPrice": 852,
+    "salePrice": 1055,
+    "unitsSold": 340,
+    "lowStockAlert": 37,
+    "highStockAlert": 194,
+    "reorderQuantity": 128,
+    "dateRenewed": "2025-09-15",
+    "manufacturingDate": "2025-05-17",
+    "expiryDate": "2027-05-17"
+  },
+  {
+    "_id": {
+      "$oid": "1acb9512d69b4e93955d3b91"
+    },
+    "id": 166,
+    "name": "Color Protect Conditioner 500ml",
+    "category": "Haircare",
+    "stock": 88,
+    "costPrice": 715,
+    "salePrice": 963,
+    "unitsSold": 33,
+    "lowStockAlert": 22,
+    "highStockAlert": 136,
+    "reorderQuantity": 112,
+    "dateRenewed": "2025-09-30",
+    "manufacturingDate": "2025-02-09",
+    "expiryDate": "2027-02-09"
+  },
+  {
+    "_id": {
+      "$oid": "50c19383b8a44be79fd482a6"
+    },
+    "id": 167,
+    "name": "Volumizing Shampoo 200ml",
+    "category": "Haircare",
+    "stock": 49,
+    "costPrice": 610,
+    "salePrice": 798,
+    "unitsSold": 195,
+    "lowStockAlert": 23,
+    "highStockAlert": 187,
+    "reorderQuantity": 140,
+    "dateRenewed": "2025-09-22",
+    "manufacturingDate": "2025-04-18",
+    "expiryDate": "2027-04-18"
+  },
+  {
+    "_id": {
+      "$oid": "47be70cbcd794b35ae603f5a"
+    },
+    "id": 168,
+    "name": "Volumizing Shampoo 250ml",
+    "category": "Haircare",
+    "stock": 48,
+    "costPrice": 507,
+    "salePrice": 631,
+    "unitsSold": 296,
+    "lowStockAlert": 24,
+    "highStockAlert": 187,
+    "reorderQuantity": 140,
+    "dateRenewed": "2025-10-29",
+    "manufacturingDate": "2025-02-07",
+    "expiryDate": "2027-02-07"
+  },
+  {
+    "_id": {
+      "$oid": "0eb403bf6de64f919309e1c3"
+    },
+    "id": 169,
+    "name": "Color Protect Conditioner 200ml",
+    "category": "Haircare",
+    "stock": 80,
+    "costPrice": 485,
+    "salePrice": 569,
+    "unitsSold": 51,
+    "lowStockAlert": 20,
+    "highStockAlert": 189,
+    "reorderQuantity": 140,
+    "dateRenewed": "2025-09-21",
+    "manufacturingDate": "2025-05-22",
+    "expiryDate": "2027-05-22"
+  },
+  {
+    "_id": {
+      "$oid": "5896a191491349b3b8977741"
+    },
+    "id": 170,
+    "name": "Heat Protectant Spray 100ml",
+    "category": "Haircare",
+    "stock": 72,
+    "costPrice": 798,
+    "salePrice": 977,
+    "unitsSold": 283,
+    "lowStockAlert": 27,
+    "highStockAlert": 184,
+    "reorderQuantity": 72,
+    "dateRenewed": "2025-09-20",
+    "manufacturingDate": "2025-04-28",
+    "expiryDate": "2027-04-28"
+  },
+  {
+    "_id": {
+      "$oid": "0fde3e632684400b97fe6fb1"
+    },
+    "id": 171,
+    "name": "Keratin Repair Mask 250ml",
+    "category": "Haircare",
+    "stock": 60,
+    "costPrice": 549,
+    "salePrice": 665,
+    "unitsSold": 74,
+    "lowStockAlert": 29,
+    "highStockAlert": 186,
+    "reorderQuantity": 130,
+    "dateRenewed": "2025-09-27",
+    "manufacturingDate": "2025-05-13",
+    "expiryDate": "2027-05-13"
+  },
+  {
+    "_id": {
+      "$oid": "3423d640458f491baec20cfb"
+    },
+    "id": 172,
+    "name": "Hair Strengthening Conditioner 150ml",
+    "category": "Haircare",
+    "stock": 99,
+    "costPrice": 524,
+    "salePrice": 608,
+    "unitsSold": 80,
+    "lowStockAlert": 22,
+    "highStockAlert": 178,
+    "reorderQuantity": 107,
+    "dateRenewed": "2025-09-24",
+    "manufacturingDate": "2025-01-31",
+    "expiryDate": "2027-01-31"
+  },
+  {
+    "_id": {
+      "$oid": "2aac84f249ea4366a1e99430"
+    },
+    "id": 173,
+    "name": "Color Protect Conditioner 250ml",
+    "category": "Haircare",
+    "stock": 43,
+    "costPrice": 419,
+    "salePrice": 574,
+    "unitsSold": 116,
+    "lowStockAlert": 32,
+    "highStockAlert": 191,
+    "reorderQuantity": 70,
+    "dateRenewed": "2025-10-06",
+    "manufacturingDate": "2025-03-10",
+    "expiryDate": "2027-03-10"
+  },
+  {
+    "_id": {
+      "$oid": "8b592071babd4c54bc758c27"
+    },
+    "id": 174,
+    "name": "Volumizing Shampoo 300ml",
+    "category": "Haircare",
+    "stock": 96,
+    "costPrice": 605,
+    "salePrice": 785,
+    "unitsSold": 292,
+    "lowStockAlert": 32,
+    "highStockAlert": 178,
+    "reorderQuantity": 77,
+    "dateRenewed": "2025-10-30",
+    "manufacturingDate": "2025-03-16",
+    "expiryDate": "2027-03-16"
+  },
+  {
+    "_id": {
+      "$oid": "55b9abedf78e4006a4eb1b06"
+    },
+    "id": 175,
+    "name": "Anti-Dandruff Shampoo 500ml",
+    "category": "Haircare",
+    "stock": 95,
+    "costPrice": 559,
+    "salePrice": 697,
+    "unitsSold": 112,
+    "lowStockAlert": 38,
+    "highStockAlert": 173,
+    "reorderQuantity": 102,
+    "dateRenewed": "2025-09-09",
+    "manufacturingDate": "2025-03-01",
+    "expiryDate": "2027-03-01"
+  },
+  {
+    "_id": {
+      "$oid": "03c2938599844833bb9d98e0"
+    },
+    "id": 176,
+    "name": "Anti-Dandruff Shampoo 150ml",
+    "category": "Haircare",
+    "stock": 114,
+    "costPrice": 680,
+    "salePrice": 820,
+    "unitsSold": 406,
+    "lowStockAlert": 30,
+    "highStockAlert": 191,
+    "reorderQuantity": 72,
+    "dateRenewed": "2025-09-17",
+    "manufacturingDate": "2025-02-19",
+    "expiryDate": "2027-02-19"
+  },
+  {
+    "_id": {
+      "$oid": "5a7be2a1dcdd4631a090a82f"
+    },
+    "id": 177,
+    "name": "Hair Detangler Spray 150ml",
+    "category": "Haircare",
+    "stock": 97,
+    "costPrice": 618,
+    "salePrice": 826,
+    "unitsSold": 218,
+    "lowStockAlert": 21,
+    "highStockAlert": 191,
+    "reorderQuantity": 101,
+    "dateRenewed": "2025-10-11",
+    "manufacturingDate": "2025-01-26",
+    "expiryDate": "2027-01-26"
+  },
+  {
+    "_id": {
+      "$oid": "2c1d1c6a891d4f41ae91c021"
+    },
+    "id": 178,
+    "name": "Heat Protectant Spray 200ml",
+    "category": "Haircare",
+    "stock": 107,
+    "costPrice": 976,
+    "salePrice": 1158,
+    "unitsSold": 321,
+    "lowStockAlert": 33,
+    "highStockAlert": 130,
+    "reorderQuantity": 65,
+    "dateRenewed": "2025-10-15",
+    "manufacturingDate": "2025-03-16",
+    "expiryDate": "2027-03-16"
+  },
+  {
+    "_id": {
+      "$oid": "eeecafee7265430e87b6b791"
+    },
+    "id": 179,
+    "name": "Volumizing Shampoo 250ml",
+    "category": "Haircare",
+    "stock": 47,
+    "costPrice": 728,
+    "salePrice": 929,
+    "unitsSold": 271,
+    "lowStockAlert": 40,
+    "highStockAlert": 166,
+    "reorderQuantity": 126,
+    "dateRenewed": "2025-10-23",
+    "manufacturingDate": "2025-01-15",
+    "expiryDate": "2027-01-15"
+  },
+  {
+    "_id": {
+      "$oid": "894109ef19d14de4a5f09a5a"
+    },
+    "id": 180,
+    "name": "Anti-Dandruff Shampoo 300ml",
+    "category": "Haircare",
+    "stock": 108,
+    "costPrice": 681,
+    "salePrice": 826,
+    "unitsSold": 69,
+    "lowStockAlert": 20,
+    "highStockAlert": 135,
+    "reorderQuantity": 131,
+    "dateRenewed": "2025-10-21",
+    "manufacturingDate": "2025-03-11",
+    "expiryDate": "2027-03-11"
+  },
+  {
+    "_id": {
+      "$oid": "80fef179e23d4a53ad6f2cd9"
+    },
+    "id": 181,
+    "name": "Keratin Repair Mask 100ml",
+    "category": "Haircare",
+    "stock": 43,
+    "costPrice": 704,
+    "salePrice": 831,
+    "unitsSold": 421,
+    "lowStockAlert": 26,
+    "highStockAlert": 121,
+    "reorderQuantity": 64,
+    "dateRenewed": "2025-10-16",
+    "manufacturingDate": "2025-05-31",
+    "expiryDate": "2027-05-31"
+  },
+  {
+    "_id": {
+      "$oid": "92891004aecf4e9c9dcfc294"
+    },
+    "id": 182,
+    "name": "Leave-In Conditioner 200ml",
+    "category": "Haircare",
+    "stock": 75,
+    "costPrice": 635,
+    "salePrice": 852,
+    "unitsSold": 398,
+    "lowStockAlert": 24,
+    "highStockAlert": 195,
+    "reorderQuantity": 103,
+    "dateRenewed": "2025-09-08",
+    "manufacturingDate": "2025-01-03",
+    "expiryDate": "2027-01-03"
+  },
+  {
+    "_id": {
+      "$oid": "0c87136526284c658005bbe6"
+    },
+    "id": 183,
+    "name": "Hair Serum 200ml",
+    "category": "Haircare",
+    "stock": 100,
+    "costPrice": 472,
+    "salePrice": 609,
+    "unitsSold": 240,
+    "lowStockAlert": 26,
+    "highStockAlert": 123,
+    "reorderQuantity": 113,
+    "dateRenewed": "2025-09-28",
+    "manufacturingDate": "2025-05-07",
+    "expiryDate": "2027-05-07"
+  },
+  {
+    "_id": {
+      "$oid": "ccbfce4c67014b8b937876c7"
+    },
+    "id": 184,
+    "name": "Nourishing Hair Cream 250ml",
+    "category": "Haircare",
+    "stock": 62,
+    "costPrice": 818,
+    "salePrice": 1052,
+    "unitsSold": 457,
+    "lowStockAlert": 38,
+    "highStockAlert": 137,
+    "reorderQuantity": 70,
+    "dateRenewed": "2025-10-07",
+    "manufacturingDate": "2025-03-02",
+    "expiryDate": "2027-03-02"
+  },
+  {
+    "_id": {
+      "$oid": "575f803257aa448b9b9bffc5"
+    },
+    "id": 185,
+    "name": "Hair Detangler Spray 200ml",
+    "category": "Haircare",
+    "stock": 46,
+    "costPrice": 755,
+    "salePrice": 1036,
+    "unitsSold": 478,
+    "lowStockAlert": 35,
+    "highStockAlert": 158,
+    "reorderQuantity": 133,
+    "dateRenewed": "2025-09-05",
+    "manufacturingDate": "2025-02-27",
+    "expiryDate": "2027-02-27"
+  },
+  {
+    "_id": {
+      "$oid": "1dccf5a41caf472eb64e6598"
+    },
+    "id": 186,
+    "name": "Keratin Repair Mask 150ml",
+    "category": "Haircare",
+    "stock": 54,
+    "costPrice": 401,
+    "salePrice": 521,
+    "unitsSold": 354,
+    "lowStockAlert": 34,
+    "highStockAlert": 200,
+    "reorderQuantity": 60,
+    "dateRenewed": "2025-10-31",
+    "manufacturingDate": "2025-05-07",
+    "expiryDate": "2027-05-07"
+  },
+  {
+    "_id": {
+      "$oid": "84150951165f4a5d9c92c120"
+    },
+    "id": 187,
+    "name": "Volumizing Shampoo 250ml",
+    "category": "Haircare",
+    "stock": 93,
+    "costPrice": 732,
+    "salePrice": 966,
+    "unitsSold": 317,
+    "lowStockAlert": 37,
+    "highStockAlert": 157,
+    "reorderQuantity": 81,
+    "dateRenewed": "2025-09-30",
+    "manufacturingDate": "2025-01-16",
+    "expiryDate": "2027-01-16"
+  },
+  {
+    "_id": {
+      "$oid": "34b667a1eac44f5680213ef5"
+    },
+    "id": 188,
+    "name": "Nourishing Hair Cream 250ml",
+    "category": "Haircare",
+    "stock": 79,
+    "costPrice": 708,
+    "salePrice": 911,
+    "unitsSold": 259,
+    "lowStockAlert": 32,
+    "highStockAlert": 156,
+    "reorderQuantity": 82,
+    "dateRenewed": "2025-10-10",
+    "manufacturingDate": "2025-04-02",
+    "expiryDate": "2027-04-02"
+  },
+  {
+    "_id": {
+      "$oid": "8c63b20d499e46d9a6fb8725"
+    },
+    "id": 189,
+    "name": "Hair Strengthening Conditioner 200ml",
+    "category": "Haircare",
+    "stock": 64,
+    "costPrice": 963,
+    "salePrice": 1140,
+    "unitsSold": 392,
+    "lowStockAlert": 26,
+    "highStockAlert": 184,
+    "reorderQuantity": 125,
+    "dateRenewed": "2025-09-20",
+    "manufacturingDate": "2025-05-21",
+    "expiryDate": "2027-05-21"
+  },
+  {
+    "_id": {
+      "$oid": "09d865e01803497aa4b8a4c6"
+    },
+    "id": 190,
+    "name": "Hair Growth Serum 100ml",
+    "category": "Haircare",
+    "stock": 115,
+    "costPrice": 663,
+    "salePrice": 797,
+    "unitsSold": 347,
+    "lowStockAlert": 30,
+    "highStockAlert": 154,
+    "reorderQuantity": 89,
+    "dateRenewed": "2025-10-10",
+    "manufacturingDate": "2025-02-25",
+    "expiryDate": "2027-02-25"
+  },
+  {
+    "_id": {
+      "$oid": "d0e5c2a991aa421bbbe97d3b"
+    },
+    "id": 191,
+    "name": "Scalp Tonic 500ml",
+    "category": "Haircare",
+    "stock": 96,
+    "costPrice": 462,
+    "salePrice": 591,
+    "unitsSold": 370,
+    "lowStockAlert": 21,
+    "highStockAlert": 163,
+    "reorderQuantity": 91,
+    "dateRenewed": "2025-09-04",
+    "manufacturingDate": "2025-01-08",
+    "expiryDate": "2027-01-08"
+  },
+  {
+    "_id": {
+      "$oid": "e7c1f35057684715a6eec87e"
+    },
+    "id": 192,
+    "name": "Hair Strengthening Conditioner 150ml",
+    "category": "Haircare",
+    "stock": 114,
+    "costPrice": 453,
+    "salePrice": 548,
+    "unitsSold": 390,
+    "lowStockAlert": 34,
+    "highStockAlert": 174,
+    "reorderQuantity": 117,
+    "dateRenewed": "2025-09-25",
+    "manufacturingDate": "2025-02-06",
+    "expiryDate": "2027-02-06"
+  },
+  {
+    "_id": {
+      "$oid": "8474f605dd25480a93158fc2"
+    },
+    "id": 193,
+    "name": "Hair Fall Control Shampoo 100ml",
+    "category": "Haircare",
+    "stock": 74,
+    "costPrice": 433,
+    "salePrice": 597,
+    "unitsSold": 94,
+    "lowStockAlert": 39,
+    "highStockAlert": 121,
+    "reorderQuantity": 129,
+    "dateRenewed": "2025-09-15",
+    "manufacturingDate": "2025-04-12",
+    "expiryDate": "2027-04-12"
+  },
+  {
+    "_id": {
+      "$oid": "82b670e77d704a25af3c3ec3"
+    },
+    "id": 194,
+    "name": "Hair Strengthening Conditioner 100ml",
+    "category": "Haircare",
+    "stock": 95,
+    "costPrice": 528,
+    "salePrice": 612,
+    "unitsSold": 441,
+    "lowStockAlert": 27,
+    "highStockAlert": 165,
+    "reorderQuantity": 131,
+    "dateRenewed": "2025-09-05",
+    "manufacturingDate": "2025-06-30",
+    "expiryDate": "2027-06-30"
+  },
+  {
+    "_id": {
+      "$oid": "75737cd8c4bb477d8d7a2b8d"
+    },
+    "id": 195,
+    "name": "Color Protect Conditioner 500ml",
+    "category": "Haircare",
+    "stock": 49,
+    "costPrice": 973,
+    "salePrice": 1312,
+    "unitsSold": 317,
+    "lowStockAlert": 35,
+    "highStockAlert": 162,
+    "reorderQuantity": 128,
+    "dateRenewed": "2025-09-01",
+    "manufacturingDate": "2025-04-13",
+    "expiryDate": "2027-04-13"
+  },
+  {
+    "_id": {
+      "$oid": "531cbaf48f714322b383d341"
+    },
+    "id": 196,
+    "name": "Argan Hair Oil 500ml",
+    "category": "Haircare",
+    "stock": 80,
+    "costPrice": 611,
+    "salePrice": 765,
+    "unitsSold": 185,
+    "lowStockAlert": 30,
+    "highStockAlert": 130,
+    "reorderQuantity": 61,
+    "dateRenewed": "2025-09-23",
+    "manufacturingDate": "2025-03-16",
+    "expiryDate": "2027-03-16"
+  },
+  {
+    "_id": {
+      "$oid": "54842b04abb8430ea51c6b0a"
+    },
+    "id": 197,
+    "name": "Hair Fall Control Shampoo 300ml",
+    "category": "Haircare",
+    "stock": 75,
+    "costPrice": 525,
+    "salePrice": 717,
+    "unitsSold": 84,
+    "lowStockAlert": 25,
+    "highStockAlert": 126,
+    "reorderQuantity": 64,
+    "dateRenewed": "2025-09-12",
+    "manufacturingDate": "2025-06-26",
+    "expiryDate": "2027-06-26"
+  },
+  {
+    "_id": {
+      "$oid": "8caba4c95a4d4f8aa3548e13"
+    },
+    "id": 198,
+    "name": "Hair Detangler Spray 250ml",
+    "category": "Haircare",
+    "stock": 71,
+    "costPrice": 661,
+    "salePrice": 789,
+    "unitsSold": 251,
+    "lowStockAlert": 32,
+    "highStockAlert": 180,
+    "reorderQuantity": 63,
+    "dateRenewed": "2025-09-05",
+    "manufacturingDate": "2025-05-15",
+    "expiryDate": "2027-05-15"
+  },
+  {
+    "_id": {
+      "$oid": "192dec618d5545059674ee07"
+    },
+    "id": 199,
+    "name": "Volumizing Shampoo 250ml",
+    "category": "Haircare",
+    "stock": 44,
+    "costPrice": 400,
+    "salePrice": 549,
+    "unitsSold": 248,
+    "lowStockAlert": 39,
+    "highStockAlert": 143,
+    "reorderQuantity": 72,
+    "dateRenewed": "2025-10-01",
+    "manufacturingDate": "2025-01-05",
+    "expiryDate": "2027-01-05"
+  },
+  {
+    "_id": {
+      "$oid": "e3dda0bc681940e18d6c4e73"
+    },
+    "id": 200,
+    "name": "Hair Strengthening Conditioner 500ml",
+    "category": "Haircare",
+    "stock": 92,
+    "costPrice": 957,
+    "salePrice": 1238,
+    "unitsSold": 75,
+    "lowStockAlert": 30,
+    "highStockAlert": 147,
+    "reorderQuantity": 84,
+    "dateRenewed": "2025-09-08",
+    "manufacturingDate": "2025-01-28",
+    "expiryDate": "2027-01-28"
+  }
+]
